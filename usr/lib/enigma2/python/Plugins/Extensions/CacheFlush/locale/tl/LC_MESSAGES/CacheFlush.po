@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: tl <ekekaz@gmail.com>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuto"
+
+msgid "%d second"
+msgstr "%d segundo"
+
+msgid "Auto timeout"
+msgstr ""
+
+msgid "Auto timeout (5-150min)"
+msgstr ""
+
+msgid "Automatic cache flushing"
+msgstr "Awtomatikong pag-flush ng cache"
+
+msgid "Cache drop type"
+msgstr "Uri ng pagbaba ng cache"
+
+msgid "CacheFlush Info"
+msgstr "Impormasyon ng CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Impormasyon sa CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Katayuan ng CacheFlush"
+
+msgid "Cancel"
+msgstr "Kanselahin"
+
+msgid "Clean \"
+msgstr "malinis \"
+
+msgid "Clear Now"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Enable CacheFlush"
+msgstr "Paganahin ang CacheFlush"
+
+msgid "Free:"
+msgstr "Libre:"
+
+msgid "Info"
+msgstr "Impormasyon"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Nag-clear si Mem"
+
+msgid "Memory:"
+msgstr "Memorya:"
+
+msgid "Refresh"
+msgstr "I-refresh"
+
+msgid "Save"
+msgstr "I-save"
+
+msgid "Setup CacheFlush"
+msgstr "I-setup ang CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Ipakita ang impormasyon sa screen"
+
+msgid "Started"
+msgstr "Nagsimula"
+
+msgid "Starting"
+msgstr "Nagsisimula"
+
+msgid "Stopped"
+msgstr "Huminto"
+
+msgid "Time of info message"
+msgstr "Oras ng mensahe ng impormasyon"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Oras ng mensahe ng impormasyon (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "Hindi naka-cache na laki ng memorya"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Hindi naka-cache na memory: %(kasalukuyang)s kB, ( default: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Ginamit:"
+
+msgid "event info"
+msgstr "impormasyon ng kaganapan"
+
+msgid "extensions"
+msgstr "mga extension"
+
+msgid "menu-system"
+msgstr ""
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "mga plugin"
+

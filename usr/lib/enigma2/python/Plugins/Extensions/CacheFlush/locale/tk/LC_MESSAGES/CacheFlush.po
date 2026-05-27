@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: tk <ekekaz@gmail.com>\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "% d minut"
+
+msgid "%d second"
+msgstr "% d sekunt"
+
+msgid "Auto timeout"
+msgstr "Awtomatik gutarmak"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Awtomatik gutarmak (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Awtomatiki keş ýuwulmagy"
+
+msgid "Cache drop type"
+msgstr "Keşiň görnüşi"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush maglumatlary"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush Maglumat% s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush ýagdaýy"
+
+msgid "Cancel"
+msgstr "Elatyr"
+
+msgid "Clean \"
+msgstr "Arassa \"
+
+msgid "Clear Now"
+msgstr "Indi arassala"
+
+msgid "Default"
+msgstr "Bellenen"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush-i işlediň"
+
+msgid "Free:"
+msgstr "Mugt:"
+
+msgid "Info"
+msgstr "Maglumat"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem arassalandy"
+
+msgid "Memory:"
+msgstr "Oryat:"
+
+msgid "Refresh"
+msgstr "Täzele"
+
+msgid "Save"
+msgstr "Saklaň"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush-y guruň"
+
+msgid "Show info on screen"
+msgstr "Ekranda maglumat görkeziň"
+
+msgid "Started"
+msgstr "Başlady"
+
+msgid "Starting"
+msgstr "Başlamak"
+
+msgid "Stopped"
+msgstr "Durdy"
+
+msgid "Time of info message"
+msgstr "Maglumat habarynyň wagty"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Maglumat habarynyň wagty (1-10 sekunt)"
+
+msgid "Uncached memory size"
+msgstr "Gözlenmedik ýadyň ululygy"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Gözlenmedik ýat:% (häzirki) s kB, (default:% (default) s kB)"
+
+msgid "Used:"
+msgstr "Ulanylan:"
+
+msgid "event info"
+msgstr "waka barada maglumat"
+
+msgid "extensions"
+msgstr "giňeltmeler"
+
+msgid "menu-system"
+msgstr "menýu-ulgam"
+
+msgid "pagecache"
+msgstr "sahypa sahypa"
+
+msgid "plugins"
+msgstr "pluginler"
+

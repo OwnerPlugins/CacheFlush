@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ar <ekekaz@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "دقيقة واحدة"
+
+msgid "%d second"
+msgstr "%d ثانية"
+
+msgid "Auto timeout"
+msgstr "المهلة التلقائية"
+
+msgid "Auto timeout (5-150min)"
+msgstr "المهلة التلقائية (5-150 دقيقة)"
+
+msgid "Automatic cache flushing"
+msgstr "التنظيف التلقائي لذاكرة التخزين المؤقت"
+
+msgid "Cache drop type"
+msgstr "نوع إسقاط ذاكرة التخزين المؤقت"
+
+msgid "CacheFlush Info"
+msgstr "معلومات ذاكرة التخزين المؤقت"
+
+msgid "CacheFlush Info v.%s"
+msgstr "معلومات CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "حالة ذاكرة التخزين المؤقت"
+
+msgid "Cancel"
+msgstr "يلغي"
+
+msgid "Clean \"
+msgstr "ينظف \"
+
+msgid "Clear Now"
+msgstr "امسح الآن"
+
+msgid "Default"
+msgstr "تقصير"
+
+msgid "Enable CacheFlush"
+msgstr "تمكين ذاكرة التخزين المؤقت"
+
+msgid "Free:"
+msgstr "حر:"
+
+msgid "Info"
+msgstr "معلومات"
+
+msgid "MB"
+msgstr "ميغابايت"
+
+msgid "Mem cleared"
+msgstr "تم مسح مم"
+
+msgid "Memory:"
+msgstr "ذاكرة:"
+
+msgid "Refresh"
+msgstr "ينعش"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Setup CacheFlush"
+msgstr "إعداد ذاكرة التخزين المؤقت"
+
+msgid "Show info on screen"
+msgstr "عرض المعلومات على الشاشة"
+
+msgid "Started"
+msgstr "بدأت"
+
+msgid "Starting"
+msgstr "البدء"
+
+msgid "Stopped"
+msgstr "توقف"
+
+msgid "Time of info message"
+msgstr "وقت رسالة المعلومات"
+
+msgid "Time of info message (1-10sec)"
+msgstr "وقت رسالة المعلومات (1-10 ثوانٍ)"
+
+msgid "Uncached memory size"
+msgstr "حجم الذاكرة غير المخزنة مؤقتًا"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "الذاكرة غير المخزنة مؤقتًا: %(الحالي)s كيلو بايت، ( الافتراضي: %(افتراضي)s كيلو بايت )"
+
+msgid "Used:"
+msgstr "مستخدم:"
+
+msgid "event info"
+msgstr "معلومات الحدث"
+
+msgid "extensions"
+msgstr "ملحقات"
+
+msgid "menu-system"
+msgstr "نظام القائمة"
+
+msgid "pagecache"
+msgstr "ذاكرة التخزين المؤقت للصفحة"
+
+msgid "plugins"
+msgstr "الإضافات"
+

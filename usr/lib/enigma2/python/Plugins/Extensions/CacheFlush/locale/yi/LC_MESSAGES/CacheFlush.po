@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: yi <ekekaz@gmail.com>\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d מינוט"
+
+msgid "%d second"
+msgstr "%d רגע"
+
+msgid "Auto timeout"
+msgstr "אַוטאָ טיימאַוט"
+
+msgid "Auto timeout (5-150min)"
+msgstr "אַוטאָ טיימאַוט (5-150 מינוט)"
+
+msgid "Automatic cache flushing"
+msgstr "אָטאַמאַטיק קאַש פלאַשינג"
+
+msgid "Cache drop type"
+msgstr "קאַש קאַפּ טיפּ"
+
+msgid "CacheFlush Info"
+msgstr "קאַטשעפלוש אינפֿאָרמאַציע"
+
+msgid "CacheFlush Info v.%s"
+msgstr "קאַטשעפלוש אינפֿאָרמאַציע וו.%s"
+
+msgid "CacheFlush Status"
+msgstr "קאַטשעפלוש סטאַטוס"
+
+msgid "Cancel"
+msgstr "באָטל מאַכן"
+
+msgid "Clean \"
+msgstr "ריין \"
+
+msgid "Clear Now"
+msgstr "קלאָר איצט"
+
+msgid "Default"
+msgstr "פעליקייַט"
+
+msgid "Enable CacheFlush"
+msgstr "געבן CacheFlush"
+
+msgid "Free:"
+msgstr "פריי:"
+
+msgid "Info"
+msgstr "אינפֿאָרמאַציע"
+
+msgid "MB"
+msgstr "מב"
+
+msgid "Mem cleared"
+msgstr "מעם האט זיך געקלערט"
+
+msgid "Memory:"
+msgstr "זכּרון:"
+
+msgid "Refresh"
+msgstr "דערפרישן"
+
+msgid "Save"
+msgstr "היט"
+
+msgid "Setup CacheFlush"
+msgstr "סעטאַפּ CacheFlush"
+
+msgid "Show info on screen"
+msgstr "ווייַזן אינפֿאָרמאַציע אויף פאַרשטעלן"
+
+msgid "Started"
+msgstr "אנגעהויבן"
+
+msgid "Starting"
+msgstr "סטאַרטינג"
+
+msgid "Stopped"
+msgstr "אפגעשטעלט"
+
+msgid "Time of info message"
+msgstr "צייט פון אינפֿאָרמאַציע אָנזאָג"
+
+msgid "Time of info message (1-10sec)"
+msgstr "צייט פון אינפֿאָרמאַציע אָנזאָג (1-10 סעק)"
+
+msgid "Uncached memory size"
+msgstr "ונקאַטשעד זכּרון גרייס"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ונקאַשט זיקאָרן: %(קראַנט) s kB, ( פעליקייַט: % (default) s kB )"
+
+msgid "Used:"
+msgstr "געוויינט:"
+
+msgid "event info"
+msgstr "געשעעניש אינפֿאָרמאַציע"
+
+msgid "extensions"
+msgstr "יקסטענשאַנז"
+
+msgid "menu-system"
+msgstr "מעניו-סיסטעם"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "פּלוגינס"
+

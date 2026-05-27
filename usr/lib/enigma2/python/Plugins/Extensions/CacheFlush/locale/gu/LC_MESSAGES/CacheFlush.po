@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: gu <ekekaz@gmail.com>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d મિનિટ"
+
+msgid "%d second"
+msgstr "%d સેકન્ડ"
+
+msgid "Auto timeout"
+msgstr "સ્વતઃ સમયસમાપ્તિ"
+
+msgid "Auto timeout (5-150min)"
+msgstr "સ્વતઃ સમયસમાપ્તિ (5-150 મિનિટ)"
+
+msgid "Automatic cache flushing"
+msgstr "સ્વચાલિત કેશ ફ્લશિંગ"
+
+msgid "Cache drop type"
+msgstr "કેશ ડ્રોપ પ્રકાર"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush માહિતી"
+
+msgid "CacheFlush Info v.%s"
+msgstr "કેશફ્લશ માહિતી v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush સ્થિતિ"
+
+msgid "Cancel"
+msgstr "રદ કરો"
+
+msgid "Clean \"
+msgstr "સ્વચ્છ \"
+
+msgid "Clear Now"
+msgstr "હવે સાફ કરો"
+
+msgid "Default"
+msgstr "ડિફૉલ્ટ"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush સક્ષમ કરો"
+
+msgid "Free:"
+msgstr "મફત:"
+
+msgid "Info"
+msgstr "માહિતી"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "મેમ સાફ કર્યું"
+
+msgid "Memory:"
+msgstr "મેમરી:"
+
+msgid "Refresh"
+msgstr "તાજું કરો"
+
+msgid "Save"
+msgstr "સાચવો"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush સેટઅપ કરો"
+
+msgid "Show info on screen"
+msgstr "સ્ક્રીન પર માહિતી બતાવો"
+
+msgid "Started"
+msgstr "શરૂ કર્યું"
+
+msgid "Starting"
+msgstr "શરૂ કરી રહ્યા છીએ"
+
+msgid "Stopped"
+msgstr "અટકી ગયો"
+
+msgid "Time of info message"
+msgstr "માહિતી સંદેશનો સમય"
+
+msgid "Time of info message (1-10sec)"
+msgstr "માહિતી સંદેશનો સમય (1-10 સેકન્ડ)"
+
+msgid "Uncached memory size"
+msgstr "અનકેશ્ડ મેમરીનું કદ"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "અનકેશ્ડ મેમરી: %(વર્તમાન)s kB, ( ડિફોલ્ટ: %(ડિફોલ્ટ)s kB )"
+
+msgid "Used:"
+msgstr "વપરાયેલ:"
+
+msgid "event info"
+msgstr "ઘટના માહિતી"
+
+msgid "extensions"
+msgstr "એક્સ્ટેન્શન્સ"
+
+msgid "menu-system"
+msgstr "મેનુ-સિસ્ટમ"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "પ્લગઈન્સ"
+

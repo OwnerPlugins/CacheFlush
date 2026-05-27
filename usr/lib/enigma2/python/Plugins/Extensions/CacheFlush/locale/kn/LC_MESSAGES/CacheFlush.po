@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: kn <ekekaz@gmail.com>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d ನಿಮಿಷ"
+
+msgid "%d second"
+msgstr "%d ಸೆಕೆಂಡ್"
+
+msgid "Auto timeout"
+msgstr "ಸ್ವಯಂ ಅವಧಿ ಮೀರಿದೆ"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ಸ್ವಯಂ ಕಾಲಾವಧಿ (5-150ನಿಮಿ)"
+
+msgid "Automatic cache flushing"
+msgstr "ಸ್ವಯಂಚಾಲಿತ ಸಂಗ್ರಹ ಫ್ಲಶಿಂಗ್"
+
+msgid "Cache drop type"
+msgstr "ಕ್ಯಾಶ್ ಡ್ರಾಪ್ ಪ್ರಕಾರ"
+
+msgid "CacheFlush Info"
+msgstr "ಕ್ಯಾಶ್‌ಫ್ಲಶ್ ಮಾಹಿತಿ"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush ಮಾಹಿತಿ v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush ಸ್ಥಿತಿ"
+
+msgid "Cancel"
+msgstr "ರದ್ದುಮಾಡು"
+
+msgid "Clean \"
+msgstr "ಕ್ಲೀನ್ \"
+
+msgid "Clear Now"
+msgstr "ಈಗ ತೆರವುಗೊಳಿಸಿ"
+
+msgid "Default"
+msgstr "ಡೀಫಾಲ್ಟ್"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+
+msgid "Free:"
+msgstr "ಉಚಿತ:"
+
+msgid "Info"
+msgstr "ಮಾಹಿತಿ"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "ಮೆಮ್ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ"
+
+msgid "Memory:"
+msgstr "ಸ್ಮರಣೆ:"
+
+msgid "Refresh"
+msgstr "ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+
+msgid "Save"
+msgstr "ಉಳಿಸಿ"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush ಅನ್ನು ಹೊಂದಿಸಿ"
+
+msgid "Show info on screen"
+msgstr "ಪರದೆಯ ಮೇಲೆ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸಿ"
+
+msgid "Started"
+msgstr "ಪ್ರಾರಂಭಿಸಲಾಗಿದೆ"
+
+msgid "Starting"
+msgstr "ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ"
+
+msgid "Stopped"
+msgstr "ನಿಲ್ಲಿಸಿದೆ"
+
+msgid "Time of info message"
+msgstr "ಮಾಹಿತಿ ಸಂದೇಶದ ಸಮಯ"
+
+msgid "Time of info message (1-10sec)"
+msgstr "ಮಾಹಿತಿ ಸಂದೇಶದ ಸಮಯ (1-10ಸೆಕೆಂಡು)"
+
+msgid "Uncached memory size"
+msgstr "ಕ್ಯಾಶ್ ಮಾಡದ ಮೆಮೊರಿ ಗಾತ್ರ"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ಕ್ಯಾಶ್ ಮಾಡದ ಮೆಮೊರಿ: %(ಪ್ರಸ್ತುತ)s kB, (ಡೀಫಾಲ್ಟ್: %(default)s kB )"
+
+msgid "Used:"
+msgstr "ಬಳಸಲಾಗಿದೆ:"
+
+msgid "event info"
+msgstr "ಈವೆಂಟ್ ಮಾಹಿತಿ"
+
+msgid "extensions"
+msgstr "ವಿಸ್ತರಣೆಗಳು"
+
+msgid "menu-system"
+msgstr "ಮೆನು-ವ್ಯವಸ್ಥೆ"
+
+msgid "pagecache"
+msgstr "ಪುಟ ಸಂಗ್ರಹ"
+
+msgid "plugins"
+msgstr "ಪ್ಲಗಿನ್‌ಗಳು"
+

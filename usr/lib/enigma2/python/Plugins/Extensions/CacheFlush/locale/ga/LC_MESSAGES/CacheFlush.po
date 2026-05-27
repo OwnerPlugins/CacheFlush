@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ga <ekekaz@gmail.com>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d nóiméad"
+
+msgid "%d second"
+msgstr "%d soicind"
+
+msgid "Auto timeout"
+msgstr "Teorainn ama uathoibríoch"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Teorainn ama uathoibríoch (5-150 nóiméad)"
+
+msgid "Automatic cache flushing"
+msgstr "Uathoibríoch taisce a shruthlú"
+
+msgid "Cache drop type"
+msgstr "Cineál titim taisce"
+
+msgid "CacheFlush Info"
+msgstr "Eolas CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Eolas CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Stádas CacheFlush"
+
+msgid "Cancel"
+msgstr "Cealaigh"
+
+msgid "Clean \"
+msgstr "Glan \"
+
+msgid "Clear Now"
+msgstr "Glan Anois"
+
+msgid "Default"
+msgstr "Réamhshocrú"
+
+msgid "Enable CacheFlush"
+msgstr "Cumasaigh CacheFlush"
+
+msgid "Free:"
+msgstr "Saor in aisce:"
+
+msgid "Info"
+msgstr "Eolas"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Glan Mem"
+
+msgid "Memory:"
+msgstr "Cuimhne:"
+
+msgid "Refresh"
+msgstr "Athnuaigh"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Setup CacheFlush"
+msgstr "Socrú CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Taispeáin eolas ar an scáileán"
+
+msgid "Started"
+msgstr "Thosaigh"
+
+msgid "Starting"
+msgstr "Ag tosú"
+
+msgid "Stopped"
+msgstr "Stopadh"
+
+msgid "Time of info message"
+msgstr "Am na teachtaireachta faisnéise"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Am na teachtaireachta faisnéise (1-10 soicind)"
+
+msgid "Uncached memory size"
+msgstr "Méid cuimhne gan taisce"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Cuimhne gan taisceadh: %(current)s kB, (réamhshocraithe: %(réamhshocraithe)s kB )"
+
+msgid "Used:"
+msgstr "Úsáidte:"
+
+msgid "event info"
+msgstr "eolas imeachta"
+
+msgid "extensions"
+msgstr "síntí"
+
+msgid "menu-system"
+msgstr "roghchlár-córas"
+
+msgid "pagecache"
+msgstr "leathanachcache"
+
+msgid "plugins"
+msgstr "forlíontáin"
+

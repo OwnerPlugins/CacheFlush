@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: bg <ekekaz@gmail.com>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d минута"
+
+msgid "%d second"
+msgstr "%d секунда"
+
+msgid "Auto timeout"
+msgstr "Автоматично изчакване"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Автоматично изчакване (5-150 минути)"
+
+msgid "Automatic cache flushing"
+msgstr "Автоматично промиване на кеша"
+
+msgid "Cache drop type"
+msgstr "Тип капка на кеша"
+
+msgid "CacheFlush Info"
+msgstr "Информация за CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Информация за CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Състояние на CacheFlush"
+
+msgid "Cancel"
+msgstr "Отказ"
+
+msgid "Clean \"
+msgstr "чисто \"
+
+msgid "Clear Now"
+msgstr ""
+
+msgid "Default"
+msgstr "По подразбиране"
+
+msgid "Enable CacheFlush"
+msgstr "Активиране на CacheFlush"
+
+msgid "Free:"
+msgstr "безплатно:"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Мемът е изчистен"
+
+msgid "Memory:"
+msgstr "Памет:"
+
+msgid "Refresh"
+msgstr "Опресняване"
+
+msgid "Save"
+msgstr "Запазване"
+
+msgid "Setup CacheFlush"
+msgstr "Настройте CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Показване на информация на екрана"
+
+msgid "Started"
+msgstr "започна"
+
+msgid "Starting"
+msgstr "Стартиране"
+
+msgid "Stopped"
+msgstr "Спряно"
+
+msgid "Time of info message"
+msgstr "Време на информационното съобщение"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Време на информационното съобщение (1-10 сек.)"
+
+msgid "Uncached memory size"
+msgstr "Размер на некешираната памет"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Некеширана памет: %(текуща)s kB, (по подразбиране: %(по подразбиране)s kB)"
+
+msgid "Used:"
+msgstr "Използвано:"
+
+msgid "event info"
+msgstr "информация за събитието"
+
+msgid "extensions"
+msgstr "разширения"
+
+msgid "menu-system"
+msgstr "меню-система"
+
+msgid "pagecache"
+msgstr "кеширане на страници"
+
+msgid "plugins"
+msgstr "добавки"
+

@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: et <ekekaz@gmail.com>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minut"
+
+msgid "%d second"
+msgstr "%d sekund"
+
+msgid "Auto timeout"
+msgstr "Automaatne ajalõpp"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automaatne ajalõpp (5–150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automaatne vahemälu loputamine"
+
+msgid "Cache drop type"
+msgstr "Vahemälu languse tüüp"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlushi teave"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlushi teave v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlushi olek"
+
+msgid "Cancel"
+msgstr "Tühista"
+
+msgid "Clean \"
+msgstr "Puhas \"
+
+msgid "Clear Now"
+msgstr "Tühjenda kohe"
+
+msgid "Default"
+msgstr "Vaikimisi"
+
+msgid "Enable CacheFlush"
+msgstr "Luba CacheFlush"
+
+msgid "Free:"
+msgstr "Tasuta:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem puhastatud"
+
+msgid "Memory:"
+msgstr "Mälu:"
+
+msgid "Refresh"
+msgstr "Värskenda"
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Setup CacheFlush"
+msgstr "Seadistage CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Näita teavet ekraanil"
+
+msgid "Started"
+msgstr "Alustatud"
+
+msgid "Starting"
+msgstr "Käivitamine"
+
+msgid "Stopped"
+msgstr "Peatatud"
+
+msgid "Time of info message"
+msgstr "Infosõnumi aeg"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Teabesõnumi aeg (1-10 sek)"
+
+msgid "Uncached memory size"
+msgstr "Vahemälu maht"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Vahemälu: %(praegune)s kB, ( vaikimisi: %(vaikimisi)s kB )"
+
+msgid "Used:"
+msgstr "Kasutatud:"
+
+msgid "event info"
+msgstr "sündmuse info"
+
+msgid "extensions"
+msgstr "laiendused"
+
+msgid "menu-system"
+msgstr "menüüsüsteem"
+
+msgid "pagecache"
+msgstr "lehe vahemälu"
+
+msgid "plugins"
+msgstr "pistikprogrammid"
+

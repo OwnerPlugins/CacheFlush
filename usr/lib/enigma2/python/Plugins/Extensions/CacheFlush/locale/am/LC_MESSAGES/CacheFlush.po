@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: am <ekekaz@gmail.com>\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d ደቂቃ"
+
+msgid "%d second"
+msgstr "%d ሰከንድ"
+
+msgid "Auto timeout"
+msgstr "ራስ-ሰር ጊዜ አልቋል"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ራስ-ሰር ጊዜ ማብቂያ (5-150 ደቂቃ)"
+
+msgid "Automatic cache flushing"
+msgstr "ራስ-ሰር መሸጎጫ መፍሰስ"
+
+msgid "Cache drop type"
+msgstr "የመሸጎጫ መጣል አይነት"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush መረጃ"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush መረጃ v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush ሁኔታ"
+
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+msgid "Clean \"
+msgstr "አጽዳ \"
+
+msgid "Clear Now"
+msgstr "አሁን አጽዳ"
+
+msgid "Default"
+msgstr "ነባሪ"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlushን አንቃ"
+
+msgid "Free:"
+msgstr "ፍርይ፥"
+
+msgid "Info"
+msgstr "መረጃ"
+
+msgid "MB"
+msgstr "ሜባ"
+
+msgid "Mem cleared"
+msgstr "ሜም ጸድቷል"
+
+msgid "Memory:"
+msgstr "ማህደረ ትውስታ፡"
+
+msgid "Refresh"
+msgstr "አድስ"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlushን ያዋቅሩ"
+
+msgid "Show info on screen"
+msgstr "በስክሪኑ ላይ መረጃ አሳይ"
+
+msgid "Started"
+msgstr "ተጀመረ"
+
+msgid "Starting"
+msgstr "በመጀመር ላይ"
+
+msgid "Stopped"
+msgstr "ቆሟል"
+
+msgid "Time of info message"
+msgstr "የመረጃ መልእክት ጊዜ"
+
+msgid "Time of info message (1-10sec)"
+msgstr "የመረጃ መልእክት ጊዜ (1-10 ሰከንድ)"
+
+msgid "Uncached memory size"
+msgstr "ያልተሸጎጠ የማህደረ ትውስታ መጠን"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ያልተሸጎጠ ማህደረ ትውስታ፡ %(የአሁኑ) ኪቢ፣ (ነባሪ፡ %(ነባሪ)s kB)"
+
+msgid "Used:"
+msgstr "ጥቅም ላይ የዋለ፡"
+
+msgid "event info"
+msgstr "የክስተት መረጃ"
+
+msgid "extensions"
+msgstr "ማራዘሚያዎች"
+
+msgid "menu-system"
+msgstr "ምናሌ-ስርዓት"
+
+msgid "pagecache"
+msgstr "ገጽ መሸጎጫ"
+
+msgid "plugins"
+msgstr "ተሰኪዎች"
+

@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ja <ekekaz@gmail.com>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d 分"
+
+msgid "%d second"
+msgstr "%d 秒"
+
+msgid "Auto timeout"
+msgstr "自動タイムアウト"
+
+msgid "Auto timeout (5-150min)"
+msgstr "自動タイムアウト (5 ～ 150 分)"
+
+msgid "Automatic cache flushing"
+msgstr "自動キャッシュフラッシュ"
+
+msgid "Cache drop type"
+msgstr "キャッシュドロップタイプ"
+
+msgid "CacheFlush Info"
+msgstr "キャッシュフラッシュ情報"
+
+msgid "CacheFlush Info v.%s"
+msgstr "キャッシュフラッシュ情報 vs.%s"
+
+msgid "CacheFlush Status"
+msgstr "キャッシュフラッシュステータス"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Clean \"
+msgstr "クリーン \"
+
+msgid "Clear Now"
+msgstr "今すぐクリア"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Enable CacheFlush"
+msgstr "キャッシュフラッシュを有効にする"
+
+msgid "Free:"
+msgstr "無料："
+
+msgid "Info"
+msgstr "情報"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "メモリがクリアされました"
+
+msgid "Memory:"
+msgstr "メモリ："
+
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Setup CacheFlush"
+msgstr "キャッシュフラッシュのセットアップ"
+
+msgid "Show info on screen"
+msgstr "画面に情報を表示する"
+
+msgid "Started"
+msgstr "開始しました"
+
+msgid "Starting"
+msgstr "起動"
+
+msgid "Stopped"
+msgstr "停止しました"
+
+msgid "Time of info message"
+msgstr "情報メッセージの時間"
+
+msgid "Time of info message (1-10sec)"
+msgstr "情報メッセージの時間 (1 ～ 10 秒)"
+
+msgid "Uncached memory size"
+msgstr "キャッシュされていないメモリのサイズ"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "キャッシュされていないメモリ: %(current)s KB、(デフォルト: %(default)s KB)"
+
+msgid "Used:"
+msgstr "使用済み："
+
+msgid "event info"
+msgstr "イベント情報"
+
+msgid "extensions"
+msgstr "拡張子"
+
+msgid "menu-system"
+msgstr "メニューシステム"
+
+msgid "pagecache"
+msgstr "ページキャッシュ"
+
+msgid "plugins"
+msgstr "プラグイン"
+

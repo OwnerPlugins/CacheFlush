@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ps <ekekaz@gmail.com>\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d دقیقه"
+
+msgid "%d second"
+msgstr "%d ثانیه"
+
+msgid "Auto timeout"
+msgstr "د اتومات وخت پای"
+
+msgid "Auto timeout (5-150min)"
+msgstr "د اتومات وخت پای (5-150 دقیقې)"
+
+msgid "Automatic cache flushing"
+msgstr "اتوماتیک کیچ فلش کول"
+
+msgid "Cache drop type"
+msgstr "د کیچ ډراپ ډول"
+
+msgid "CacheFlush Info"
+msgstr "د کیچ فلش معلومات"
+
+msgid "CacheFlush Info v.%s"
+msgstr "د کیچ فلش معلومات v.%s"
+
+msgid "CacheFlush Status"
+msgstr "د CacheFlush حالت"
+
+msgid "Cancel"
+msgstr "لغوه کړئ"
+
+msgid "Clean \"
+msgstr "پاک \"
+
+msgid "Clear Now"
+msgstr "اوس پاک کړئ"
+
+msgid "Default"
+msgstr "ډیفالټ"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush فعال کړئ"
+
+msgid "Free:"
+msgstr "وړيا:"
+
+msgid "Info"
+msgstr "معلومات"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "میم پاک شو"
+
+msgid "Memory:"
+msgstr "حافظه:"
+
+msgid "Refresh"
+msgstr "تازه کړئ"
+
+msgid "Save"
+msgstr "خوندي کړئ"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush تنظیم کړئ"
+
+msgid "Show info on screen"
+msgstr "په سکرین کې معلومات ښکاره کړئ"
+
+msgid "Started"
+msgstr "پیل شو"
+
+msgid "Starting"
+msgstr "پیل کول"
+
+msgid "Stopped"
+msgstr "ودرېده"
+
+msgid "Time of info message"
+msgstr "د معلوماتو پیغام وخت"
+
+msgid "Time of info message (1-10sec)"
+msgstr "د معلوماتو د پیغام وخت (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "د حافظې نه پاتې شوې اندازه"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "بې حافظه حافظه: %(اوسنی)s kB، ( ډیفالټ: %(ډیفالټ)s kB )"
+
+msgid "Used:"
+msgstr "کارول شوي:"
+
+msgid "event info"
+msgstr "د پیښې معلومات"
+
+msgid "extensions"
+msgstr "تمدیدونه"
+
+msgid "menu-system"
+msgstr "مینو سیسټم"
+
+msgid "pagecache"
+msgstr "د پاڼې کیچ"
+
+msgid "plugins"
+msgstr "پلگ ان"
+

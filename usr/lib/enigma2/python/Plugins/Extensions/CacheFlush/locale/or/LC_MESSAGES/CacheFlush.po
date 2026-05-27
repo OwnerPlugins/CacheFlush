@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: or <ekekaz@gmail.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "% d ମିନିଟ୍"
+
+msgid "%d second"
+msgstr "% d ଦ୍ୱିତୀୟ"
+
+msgid "Auto timeout"
+msgstr "ଅଟୋ ସମୟ ସମାପ୍ତ |"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ଅଟୋ ଟାଇମଆଉଟ୍ (5-150 ମିନିଟ୍)"
+
+msgid "Automatic cache flushing"
+msgstr "ସ୍ୱୟଂଚାଳିତ କ୍ୟାଚ୍ ଫ୍ଲାଶ୍ |"
+
+msgid "Cache drop type"
+msgstr "କ୍ୟାଚ୍ ଡ୍ରପ୍ ପ୍ରକାର |"
+
+msgid "CacheFlush Info"
+msgstr "କ୍ୟାଚ୍ ଫ୍ଲସ୍ ସୂଚନା |"
+
+msgid "CacheFlush Info v.%s"
+msgstr "କ୍ୟାଚ୍ ଫ୍ଲସ୍ ସୂଚନା ବନାମ% s |"
+
+msgid "CacheFlush Status"
+msgstr "କ୍ୟାଚ୍ ଫ୍ଲସ୍ ସ୍ଥିତି |"
+
+msgid "Cancel"
+msgstr "ବାତିଲ୍ କରନ୍ତୁ |"
+
+msgid "Clean \"
+msgstr "ସଫା \"
+
+msgid "Clear Now"
+msgstr "ବର୍ତ୍ତମାନ ସଫା କର |"
+
+msgid "Default"
+msgstr "ଡିଫଲ୍ଟ |"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush ସକ୍ଷମ କରନ୍ତୁ |"
+
+msgid "Free:"
+msgstr "ମାଗଣା:"
+
+msgid "Info"
+msgstr "ସୂଚନା"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "ମେମ୍ ସଫା ହେଲା |"
+
+msgid "Memory:"
+msgstr "ସ୍ମୃତି:"
+
+msgid "Refresh"
+msgstr "ସତେଜ କରନ୍ତୁ |"
+
+msgid "Save"
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush ସେଟଅପ୍ କରନ୍ତୁ |"
+
+msgid "Show info on screen"
+msgstr "ପରଦାରେ ସୂଚନା ଦେଖାନ୍ତୁ |"
+
+msgid "Started"
+msgstr "ଆରମ୍ଭ ହୋଇଛି"
+
+msgid "Starting"
+msgstr "ଆରମ୍ଭ ହେଉଛି"
+
+msgid "Stopped"
+msgstr "ବନ୍ଦ"
+
+msgid "Time of info message"
+msgstr "ସୂଚନା ବାର୍ତ୍ତାର ସମୟ |"
+
+msgid "Time of info message (1-10sec)"
+msgstr "ସୂଚନା ବାର୍ତ୍ତାର ସମୟ (1-10 ସେକେ)"
+
+msgid "Uncached memory size"
+msgstr "ଅଣସଂରକ୍ଷିତ ସ୍ମୃତି ଆକାର |"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ଅନାବଶ୍ୟକ ସ୍ମୃତି:% (ସାମ୍ପ୍ରତିକ) s kB, (ଡିଫଲ୍ଟ:% (ଡିଫଲ୍ଟ) s kB)"
+
+msgid "Used:"
+msgstr "ବ୍ୟବହୃତ:"
+
+msgid "event info"
+msgstr "ଇଭେଣ୍ଟ ସୂଚନା"
+
+msgid "extensions"
+msgstr "ବିସ୍ତୃତକରଣ"
+
+msgid "menu-system"
+msgstr "ମେନୁ-ସିଷ୍ଟମ୍ |"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "ପ୍ଲଗଇନ୍ |"
+

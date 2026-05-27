@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: my <ekekaz@gmail.com>\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d မိနစ်"
+
+msgid "%d second"
+msgstr "%d စက္ကန့်"
+
+msgid "Auto timeout"
+msgstr "အလိုအလျောက် အချိန်ကုန်သွားသည်။"
+
+msgid "Auto timeout (5-150min)"
+msgstr "အလိုအလျောက် အချိန်ကုန် (5-150 မိနစ်)"
+
+msgid "Automatic cache flushing"
+msgstr "အလိုအလျောက် ကက်ရှ်ကို ဆွဲထုတ်ခြင်း။"
+
+msgid "Cache drop type"
+msgstr "Cache drop အမျိုးအစား"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush အချက်အလက်"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush အချက်အလက် v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush အခြေအနေ"
+
+msgid "Cancel"
+msgstr "မလုပ်တော့"
+
+msgid "Clean \"
+msgstr "သန့်ရှင်း"
+
+msgid "Clear Now"
+msgstr "အခုရှင်းလိုက်ပါ။"
+
+msgid "Default"
+msgstr "ပုံသေ"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush ကိုဖွင့်ပါ။"
+
+msgid "Free:"
+msgstr "အခမဲ့-"
+
+msgid "Info"
+msgstr "အချက်အလက်"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem ရှင်းသွားပြီ"
+
+msgid "Memory:"
+msgstr "မှတ်ဉာဏ်-"
+
+msgid "Refresh"
+msgstr "ပြန်လည်စတင်ပါ။"
+
+msgid "Save"
+msgstr "သိမ်းဆည်းပါ။"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush ကို စနစ်ထည့်သွင်းပါ။"
+
+msgid "Show info on screen"
+msgstr "မျက်နှာပြင်ပေါ်တွင် အချက်အလက်ကို ပြသပါ။"
+
+msgid "Started"
+msgstr "စတင်ခဲ့သည်။"
+
+msgid "Starting"
+msgstr "စတင်ခြင်း။"
+
+msgid "Stopped"
+msgstr "ရပ်သွားတယ်။"
+
+msgid "Time of info message"
+msgstr "သတင်းအချက်အလတ်အချိန်"
+
+msgid "Time of info message (1-10sec)"
+msgstr "အချက်အလက်မက်ဆေ့ချ် အချိန် (1-10 စက္ကန့်)"
+
+msgid "Uncached memory size"
+msgstr "Uncached မမ်မိုရီအရွယ်အစား"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Uncached memory- %(Current)s kB၊ (မူလ- %(default)s kB)"
+
+msgid "Used:"
+msgstr "အသုံးပြုသည်-"
+
+msgid "event info"
+msgstr "ပွဲအချက်အလက်"
+
+msgid "extensions"
+msgstr "တိုးချဲ့မှုများ"
+
+msgid "menu-system"
+msgstr "မီနူးစနစ်"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "ပလပ်အင်များ"
+

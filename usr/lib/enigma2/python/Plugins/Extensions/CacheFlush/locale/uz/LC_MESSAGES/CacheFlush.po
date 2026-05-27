@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: uz <ekekaz@gmail.com>\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d daqiqa"
+
+msgid "%d second"
+msgstr "%d soniya"
+
+msgid "Auto timeout"
+msgstr "Avtomatik vaqt tugashi"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Avtomatik kutish vaqti (5-150 daqiqa)"
+
+msgid "Automatic cache flushing"
+msgstr "Keshni avtomatik tozalash"
+
+msgid "Cache drop type"
+msgstr "Keshni tushirish turi"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush haqida ma'lumot"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush holati"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Clean \"
+msgstr "Tozalash \"
+
+msgid "Clear Now"
+msgstr "Hozir tozalang"
+
+msgid "Default"
+msgstr "Standart"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush-ni yoqing"
+
+msgid "Free:"
+msgstr "Bepul:"
+
+msgid "Info"
+msgstr "Ma'lumot"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem tozalandi"
+
+msgid "Memory:"
+msgstr "Xotira:"
+
+msgid "Refresh"
+msgstr "Yangilash"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush-ni o'rnating"
+
+msgid "Show info on screen"
+msgstr "Ekranda ma'lumotlarni ko'rsatish"
+
+msgid "Started"
+msgstr "Boshlandi"
+
+msgid "Starting"
+msgstr "Boshlanmoqda"
+
+msgid "Stopped"
+msgstr "To'xtatildi"
+
+msgid "Time of info message"
+msgstr "Ma'lumot xabari vaqti"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Axborot xabari vaqti (1-10 soniya)"
+
+msgid "Uncached memory size"
+msgstr "Keshlanmagan xotira hajmi"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Keshlanmagan xotira: %(current)s kB, (standart: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Ishlatilgan:"
+
+msgid "event info"
+msgstr "voqea ma'lumotlari"
+
+msgid "extensions"
+msgstr "kengaytmalar"
+
+msgid "menu-system"
+msgstr "menyu tizimi"
+
+msgid "pagecache"
+msgstr "sahifa keshi"
+
+msgid "plugins"
+msgstr "plaginlar"
+

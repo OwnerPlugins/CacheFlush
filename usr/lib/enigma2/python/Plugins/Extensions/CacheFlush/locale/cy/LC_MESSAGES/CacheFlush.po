@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: cy <ekekaz@gmail.com>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d munud"
+
+msgid "%d second"
+msgstr "%d eiliad"
+
+msgid "Auto timeout"
+msgstr "Goramser auto"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Goramser ceir (5-150 munud)"
+
+msgid "Automatic cache flushing"
+msgstr "Fflysio cache awtomatig"
+
+msgid "Cache drop type"
+msgstr "Math gollwng cache"
+
+msgid "CacheFlush Info"
+msgstr "Gwybodaeth CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Gwybodaeth CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Statws CacheFlush"
+
+msgid "Cancel"
+msgstr "Canslo"
+
+msgid "Clean \"
+msgstr "Glan \"
+
+msgid "Clear Now"
+msgstr "Cliriwch Nawr"
+
+msgid "Default"
+msgstr "Diofyn"
+
+msgid "Enable CacheFlush"
+msgstr "Galluogi CacheFlush"
+
+msgid "Free:"
+msgstr "Am ddim:"
+
+msgid "Info"
+msgstr "Gwybodaeth"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem clirio"
+
+msgid "Memory:"
+msgstr "Cof:"
+
+msgid "Refresh"
+msgstr "Adnewyddu"
+
+msgid "Save"
+msgstr "Arbed"
+
+msgid "Setup CacheFlush"
+msgstr "Gosod CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Dangos gwybodaeth ar y sgrin"
+
+msgid "Started"
+msgstr "Dechreuwyd"
+
+msgid "Starting"
+msgstr "Yn dechrau"
+
+msgid "Stopped"
+msgstr "Wedi stopio"
+
+msgid "Time of info message"
+msgstr "Amser neges gwybodaeth"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Amser y neges gwybodaeth (1-10 eiliad)"
+
+msgid "Uncached memory size"
+msgstr "Maint cof heb ei gadw"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Cof heb ei gadw: %(current)s kB, ( diofyn: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Wedi'i ddefnyddio:"
+
+msgid "event info"
+msgstr "gwybodaeth digwyddiad"
+
+msgid "extensions"
+msgstr "estyniadau"
+
+msgid "menu-system"
+msgstr "dewislen-system"
+
+msgid "pagecache"
+msgstr "tudalencache"
+
+msgid "plugins"
+msgstr "ategion"
+

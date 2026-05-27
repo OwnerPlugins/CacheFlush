@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: zh_CN <ekekaz@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d 分钟"
+
+msgid "%d second"
+msgstr "%d 秒"
+
+msgid "Auto timeout"
+msgstr "自动超时"
+
+msgid "Auto timeout (5-150min)"
+msgstr "自动超时（5-150分钟）"
+
+msgid "Automatic cache flushing"
+msgstr "自动缓存刷新"
+
+msgid "Cache drop type"
+msgstr "缓存丢弃类型"
+
+msgid "CacheFlush Info"
+msgstr "缓存刷新信息"
+
+msgid "CacheFlush Info v.%s"
+msgstr "缓存刷新信息 v.%s"
+
+msgid "CacheFlush Status"
+msgstr "缓存刷新状态"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Clean \"
+msgstr "干净的 \"
+
+msgid "Clear Now"
+msgstr "立即清除"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Enable CacheFlush"
+msgstr "启用缓存刷新"
+
+msgid "Free:"
+msgstr "自由的："
+
+msgid "Info"
+msgstr "信息"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "内存已清除"
+
+msgid "Memory:"
+msgstr "记忆："
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Save"
+msgstr "节省"
+
+msgid "Setup CacheFlush"
+msgstr "设置缓存刷新"
+
+msgid "Show info on screen"
+msgstr "在屏幕上显示信息"
+
+msgid "Started"
+msgstr "开始"
+
+msgid "Starting"
+msgstr "开始"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Time of info message"
+msgstr "信息消息的时间"
+
+msgid "Time of info message (1-10sec)"
+msgstr "信息消息的时间（1-10秒）"
+
+msgid "Uncached memory size"
+msgstr "未缓存的内存大小"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "未缓存内存：%(current)s kB，（默认值：%(default)s kB）"
+
+msgid "Used:"
+msgstr "用过的："
+
+msgid "event info"
+msgstr "活动信息"
+
+msgid "extensions"
+msgstr "扩展"
+
+msgid "menu-system"
+msgstr "菜单系统"
+
+msgid "pagecache"
+msgstr "页面缓存"
+
+msgid "plugins"
+msgstr "插件"
+

@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: gd <ekekaz@gmail.com>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d mionaid"
+
+msgid "%d second"
+msgstr "%d diog"
+
+msgid "Auto timeout"
+msgstr "Ùine ùine fèin-ghluasadach"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Ùine fèin-ghluasadach (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "A’ sruthadh tasgadan fèin-ghluasadach"
+
+msgid "Cache drop type"
+msgstr "Seòrsa drop cache"
+
+msgid "CacheFlush Info"
+msgstr "Fiosrachadh CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Fiosrachadh CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Inbhe CacheFlush"
+
+msgid "Cancel"
+msgstr "Sguir dheth"
+
+msgid "Clean \"
+msgstr "Glan \"
+
+msgid "Clear Now"
+msgstr "Glan a-nis"
+
+msgid "Default"
+msgstr "Deònach"
+
+msgid "Enable CacheFlush"
+msgstr "Dèan comas air CacheFlush"
+
+msgid "Free:"
+msgstr "Saor an-asgaidh:"
+
+msgid "Info"
+msgstr "Fiosrachadh"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem air a ghlanadh"
+
+msgid "Memory:"
+msgstr "Cuimhne:"
+
+msgid "Refresh"
+msgstr "Ùraich"
+
+msgid "Save"
+msgstr "Sàbhail"
+
+msgid "Setup CacheFlush"
+msgstr "Suidhich CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Seall fiosrachadh air an sgrion"
+
+msgid "Started"
+msgstr "Thòisich"
+
+msgid "Starting"
+msgstr "A' tòiseachadh"
+
+msgid "Stopped"
+msgstr "Sguir"
+
+msgid "Time of info message"
+msgstr "Uair teachdaireachd fiosrachaidh"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Ùine teachdaireachd fiosrachaidh (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "Meud cuimhne gun tasgadh"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Cuimhne gun tasgadan: %(current)s kB, ( bunaiteach: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Chleachdadh:"
+
+msgid "event info"
+msgstr "fiosrachadh tachartas"
+
+msgid "extensions"
+msgstr "leudachain"
+
+msgid "menu-system"
+msgstr "siostam clàr-taice"
+
+msgid "pagecache"
+msgstr "duilleagcache"
+
+msgid "plugins"
+msgstr "plugain"
+

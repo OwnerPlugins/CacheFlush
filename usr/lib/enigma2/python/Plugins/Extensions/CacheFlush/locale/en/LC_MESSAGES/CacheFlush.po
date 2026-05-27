@@ -1,4 +1,19 @@
-#, fuzzy
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: en <ekekaz@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "%d minute"
 msgstr ""
@@ -88,7 +103,7 @@ msgid "Uncached memory size"
 msgstr ""
 
 msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
-msgstr ""
+msgstr "Uncached memory: %(current)s kB, ( default: %(default)s kB )"
 
 msgid "Used:"
 msgstr ""
@@ -107,3 +122,4 @@ msgstr ""
 
 msgid "plugins"
 msgstr ""
+

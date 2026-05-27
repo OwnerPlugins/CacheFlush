@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: vi <ekekaz@gmail.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d phút"
+
+msgid "%d second"
+msgstr "%d giây"
+
+msgid "Auto timeout"
+msgstr "Tự động hết thời gian"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Tự động hết thời gian chờ (5-150 phút)"
+
+msgid "Automatic cache flushing"
+msgstr "Tự động xóa bộ nhớ đệm"
+
+msgid "Cache drop type"
+msgstr "Kiểu thả bộ đệm"
+
+msgid "CacheFlush Info"
+msgstr "Thông tin CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Thông tin CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Trạng thái xóa bộ nhớ đệm"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Clean \"
+msgstr "Lau dọn \"
+
+msgid "Clear Now"
+msgstr "Xóa ngay bây giờ"
+
+msgid "Default"
+msgstr "Mặc định"
+
+msgid "Enable CacheFlush"
+msgstr "Kích hoạt CacheFlush"
+
+msgid "Free:"
+msgstr "Miễn phí:"
+
+msgid "Info"
+msgstr "Thông tin"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Đã xóa ghi nhớ"
+
+msgid "Memory:"
+msgstr "Ký ức:"
+
+msgid "Refresh"
+msgstr "Làm cho khỏe lại"
+
+msgid "Save"
+msgstr "Cứu"
+
+msgid "Setup CacheFlush"
+msgstr "Thiết lập CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Hiển thị thông tin trên màn hình"
+
+msgid "Started"
+msgstr "Đã bắt đầu"
+
+msgid "Starting"
+msgstr "Bắt đầu"
+
+msgid "Stopped"
+msgstr "Đã dừng"
+
+msgid "Time of info message"
+msgstr "Thời gian thông báo thông tin"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Thời gian tin nhắn thông tin (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "Kích thước bộ nhớ chưa được lưu vào bộ nhớ đệm"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Bộ nhớ chưa được lưu vào bộ nhớ đệm: %(current)s kB, ( mặc định: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Đã sử dụng:"
+
+msgid "event info"
+msgstr "thông tin sự kiện"
+
+msgid "extensions"
+msgstr "tiện ích mở rộng"
+
+msgid "menu-system"
+msgstr "hệ thống menu"
+
+msgid "pagecache"
+msgstr "bộ đệm trang"
+
+msgid "plugins"
+msgstr "plugin"
+

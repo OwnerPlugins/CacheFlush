@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: tt <ekekaz@gmail.com>\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "% d минут"
+
+msgid "%d second"
+msgstr "% d секунд"
+
+msgid "Auto timeout"
+msgstr "Авто вакыты"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Авто вакыты (5-150мин)"
+
+msgid "Automatic cache flushing"
+msgstr "Автоматик кэш"
+
+msgid "Cache drop type"
+msgstr "Кэш төшү төре"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush Мәгълүмат"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush Мәгълүмат% s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush статусы"
+
+msgid "Cancel"
+msgstr "Баш тарту"
+
+msgid "Clean \"
+msgstr "Чиста \"
+
+msgid "Clear Now"
+msgstr "Хәзер чистарт"
+
+msgid "Default"
+msgstr "Килешү"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush кушу"
+
+msgid "Free:"
+msgstr "Түләүсез:"
+
+msgid "Info"
+msgstr "Мәгълүмат"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "Mem cleared"
+msgstr "Мем чистартылды"
+
+msgid "Memory:"
+msgstr "Хәтер:"
+
+msgid "Refresh"
+msgstr "Яңарту"
+
+msgid "Save"
+msgstr "Саклагыз"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush урнаштыру"
+
+msgid "Show info on screen"
+msgstr "Экранда мәгълүмат күрсәтегез"
+
+msgid "Started"
+msgstr "Башланды"
+
+msgid "Starting"
+msgstr "Башлау"
+
+msgid "Stopped"
+msgstr "Тукта"
+
+msgid "Time of info message"
+msgstr "Мәгълүмат хәбәр итү вакыты"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Мәгълүмат хәбәр итү вакыты (1-10сек)"
+
+msgid "Uncached memory size"
+msgstr "Сакланмаган хәтер күләме"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Сакланмаган хәтер:% (агым) s kB, (default:% (default) s kB)"
+
+msgid "Used:"
+msgstr "Кулланылган:"
+
+msgid "event info"
+msgstr "вакыйга турында мәгълүмат"
+
+msgid "extensions"
+msgstr "киңәйтүләр"
+
+msgid "menu-system"
+msgstr "меню-система"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "плагиннар"
+

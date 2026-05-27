@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sw <ekekaz@gmail.com>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "Dakika %d"
+
+msgid "%d second"
+msgstr "Sekunde %d"
+
+msgid "Auto timeout"
+msgstr "Muda kiotomatiki umekwisha"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Muda umekwisha otomatiki (dakika 5-150)"
+
+msgid "Automatic cache flushing"
+msgstr "Usafishaji wa kache kiotomatiki"
+
+msgid "Cache drop type"
+msgstr "Aina ya kushuka kwa akiba"
+
+msgid "CacheFlush Info"
+msgstr "Maelezo ya CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Maelezo ya CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Hali ya CacheFlush"
+
+msgid "Cancel"
+msgstr "Ghairi"
+
+msgid "Clean \"
+msgstr "Safi \"
+
+msgid "Clear Now"
+msgstr "Wazi Sasa"
+
+msgid "Default"
+msgstr "Chaguomsingi"
+
+msgid "Enable CacheFlush"
+msgstr "Washa CacheFlush"
+
+msgid "Free:"
+msgstr "Bure:"
+
+msgid "Info"
+msgstr "Habari"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem imefutwa"
+
+msgid "Memory:"
+msgstr "Kumbukumbu:"
+
+msgid "Refresh"
+msgstr "Onyesha upya"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "Setup CacheFlush"
+msgstr "Sanidi CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Onyesha habari kwenye skrini"
+
+msgid "Started"
+msgstr "Imeanza"
+
+msgid "Starting"
+msgstr "Kuanzia"
+
+msgid "Stopped"
+msgstr "Imesimamishwa"
+
+msgid "Time of info message"
+msgstr "Wakati wa ujumbe wa habari"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Muda wa ujumbe wa habari (sekunde 1-10)"
+
+msgid "Uncached memory size"
+msgstr "Saizi ya kumbukumbu isiyohifadhiwa"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Kumbukumbu ambayo haijahifadhiwa: %(current)s kB, ( chaguomsingi: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Imetumika:"
+
+msgid "event info"
+msgstr "habari ya tukio"
+
+msgid "extensions"
+msgstr "viendelezi"
+
+msgid "menu-system"
+msgstr "mfumo wa menyu"
+
+msgid "pagecache"
+msgstr "kache ya ukurasa"
+
+msgid "plugins"
+msgstr "programu-jalizi"
+

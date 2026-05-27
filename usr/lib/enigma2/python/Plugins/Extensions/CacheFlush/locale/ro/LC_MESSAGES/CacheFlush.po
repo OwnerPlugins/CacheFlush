@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ro <ekekaz@gmail.com>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minut"
+
+msgid "%d second"
+msgstr "%d secundă"
+
+msgid "Auto timeout"
+msgstr "Timeout automat"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Timeout automat (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Spălare automată a cache-ului"
+
+msgid "Cache drop type"
+msgstr "Tipul de picurare a memoriei cache"
+
+msgid "CacheFlush Info"
+msgstr "Informații CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informații CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Stare CacheFlush"
+
+msgid "Cancel"
+msgstr "Anula"
+
+msgid "Clean \"
+msgstr "curat \"
+
+msgid "Clear Now"
+msgstr "Ștergeți acum"
+
+msgid "Default"
+msgstr "Implicit"
+
+msgid "Enable CacheFlush"
+msgstr "Activați CacheFlush"
+
+msgid "Free:"
+msgstr "Gratuit:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem a șters"
+
+msgid "Memory:"
+msgstr "Memorie:"
+
+msgid "Refresh"
+msgstr "Reîmprospăta"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Setup CacheFlush"
+msgstr "Configurați CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Afișați informațiile pe ecran"
+
+msgid "Started"
+msgstr "A început"
+
+msgid "Starting"
+msgstr "Pornire"
+
+msgid "Stopped"
+msgstr "Oprit"
+
+msgid "Time of info message"
+msgstr "Ora mesajului informativ"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Timpul mesajului informativ (1-10 sec)"
+
+msgid "Uncached memory size"
+msgstr "Dimensiunea memoriei necache"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memorie necache: %(current)s kB, (implicit: %(default)s kB)"
+
+msgid "Used:"
+msgstr "Folosit:"
+
+msgid "event info"
+msgstr "informații despre eveniment"
+
+msgid "extensions"
+msgstr "extensii"
+
+msgid "menu-system"
+msgstr "sistem de meniu"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "pluginuri"
+

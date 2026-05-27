@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ms <ekekaz@gmail.com>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minit"
+
+msgid "%d second"
+msgstr "%d saat"
+
+msgid "Auto timeout"
+msgstr "Auto tamat masa"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Auto tamat masa (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Pembilasan cache automatik"
+
+msgid "Cache drop type"
+msgstr "Jenis drop cache"
+
+msgid "CacheFlush Info"
+msgstr "Maklumat CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Maklumat CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Status CacheFlush"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Clean \"
+msgstr "Bersih \"
+
+msgid "Clear Now"
+msgstr "Kosongkan Sekarang"
+
+msgid "Default"
+msgstr "Lalai"
+
+msgid "Enable CacheFlush"
+msgstr "Dayakan CacheFlush"
+
+msgid "Free:"
+msgstr "Percuma:"
+
+msgid "Info"
+msgstr "info"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem dibersihkan"
+
+msgid "Memory:"
+msgstr "Ingatan:"
+
+msgid "Refresh"
+msgstr "Segarkan semula"
+
+msgid "Save"
+msgstr "Jimat"
+
+msgid "Setup CacheFlush"
+msgstr "Sediakan CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Tunjukkan maklumat pada skrin"
+
+msgid "Started"
+msgstr "Bermula"
+
+msgid "Starting"
+msgstr "Bermula"
+
+msgid "Stopped"
+msgstr "Berhenti"
+
+msgid "Time of info message"
+msgstr "Masa mesej maklumat"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Masa mesej maklumat (1-10 saat)"
+
+msgid "Uncached memory size"
+msgstr "Saiz memori tidak dicache"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memori tidak dicache: %(semasa)s kB, ( lalai: %(lalai)s kB )"
+
+msgid "Used:"
+msgstr "Digunakan:"
+
+msgid "event info"
+msgstr "maklumat acara"
+
+msgid "extensions"
+msgstr "sambungan"
+
+msgid "menu-system"
+msgstr "sistem menu"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "pemalam"
+

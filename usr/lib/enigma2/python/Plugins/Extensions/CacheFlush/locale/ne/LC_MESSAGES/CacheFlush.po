@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ne <ekekaz@gmail.com>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d मिनेट"
+
+msgid "%d second"
+msgstr "%d सेकेन्ड"
+
+msgid "Auto timeout"
+msgstr "स्वत: टाइमआउट"
+
+msgid "Auto timeout (5-150min)"
+msgstr "स्वतः टाइमआउट (५-१५० मिनेट)"
+
+msgid "Automatic cache flushing"
+msgstr "स्वचालित क्यास फ्लशिंग"
+
+msgid "Cache drop type"
+msgstr "क्यास ड्रप प्रकार"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush जानकारी"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush जानकारी v. %s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush स्थिति"
+
+msgid "Cancel"
+msgstr "रद्द गर्नुहोस्"
+
+msgid "Clean \"
+msgstr "सफा \"
+
+msgid "Clear Now"
+msgstr "अब खाली गर्नुहोस्"
+
+msgid "Default"
+msgstr "पूर्वनिर्धारित"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush सक्षम गर्नुहोस्"
+
+msgid "Free:"
+msgstr "नि:शुल्क:"
+
+msgid "Info"
+msgstr "जानकारी"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "मेम क्लियर भयो"
+
+msgid "Memory:"
+msgstr "मेमोरी:"
+
+msgid "Refresh"
+msgstr "रिफ्रेस गर्नुहोस्"
+
+msgid "Save"
+msgstr "बचत गर्नुहोस्"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush सेटअप गर्नुहोस्"
+
+msgid "Show info on screen"
+msgstr "स्क्रिनमा जानकारी देखाउनुहोस्"
+
+msgid "Started"
+msgstr "सुरु भयो"
+
+msgid "Starting"
+msgstr "सुरु गर्दै"
+
+msgid "Stopped"
+msgstr "रोकियो"
+
+msgid "Time of info message"
+msgstr "सूचना सन्देशको समय"
+
+msgid "Time of info message (1-10sec)"
+msgstr "जानकारी सन्देशको समय (१-१० सेकेन्ड)"
+
+msgid "Uncached memory size"
+msgstr "क्याच नगरिएको मेमोरी साइज"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "क्याच नगरिएको मेमोरी: %(वर्तमान)s kB, ( पूर्वनिर्धारित: %(पूर्वनिर्धारित)s kB )"
+
+msgid "Used:"
+msgstr "प्रयोग गरिएको:"
+
+msgid "event info"
+msgstr "घटना जानकारी"
+
+msgid "extensions"
+msgstr "विस्तारहरू"
+
+msgid "menu-system"
+msgstr "मेनु प्रणाली"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "प्लगइनहरू"
+

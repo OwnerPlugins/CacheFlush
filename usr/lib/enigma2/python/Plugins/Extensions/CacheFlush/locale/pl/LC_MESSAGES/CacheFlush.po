@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: pl <ekekaz@gmail.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuta"
+
+msgid "%d second"
+msgstr "%d sekunda"
+
+msgid "Auto timeout"
+msgstr "Automatyczny limit czasu"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatyczny limit czasu (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatyczne opróżnianie pamięci podręcznej"
+
+msgid "Cache drop type"
+msgstr "Typ upuszczania pamięci podręcznej"
+
+msgid "CacheFlush Info"
+msgstr "Informacje o CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informacje o CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Stan opróżniania pamięci podręcznej"
+
+msgid "Cancel"
+msgstr "Anulować"
+
+msgid "Clean \"
+msgstr "Czysty \"
+
+msgid "Clear Now"
+msgstr "Wyczyść teraz"
+
+msgid "Default"
+msgstr "Domyślny"
+
+msgid "Enable CacheFlush"
+msgstr "Włącz CacheFlush"
+
+msgid "Free:"
+msgstr "Bezpłatny:"
+
+msgid "Info"
+msgstr "Informacje"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Pamięć wyczyszczona"
+
+msgid "Memory:"
+msgstr "Pamięć:"
+
+msgid "Refresh"
+msgstr "Odświeżać"
+
+msgid "Save"
+msgstr "Ratować"
+
+msgid "Setup CacheFlush"
+msgstr "Skonfiguruj CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Pokaż informacje na ekranie"
+
+msgid "Started"
+msgstr "Rozpoczęło się"
+
+msgid "Starting"
+msgstr "Startowy"
+
+msgid "Stopped"
+msgstr "Zatrzymany"
+
+msgid "Time of info message"
+msgstr "Godzina wiadomości informacyjnej"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Czas komunikatu informacyjnego (1-10sek)"
+
+msgid "Uncached memory size"
+msgstr "Rozmiar pamięci niebuforowanej"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Pamięć niezapisana w pamięci podręcznej: %(bieżąca)s kB, (domyślnie: %(domyślnie)s kB)"
+
+msgid "Used:"
+msgstr "Używany:"
+
+msgid "event info"
+msgstr "informacje o wydarzeniu"
+
+msgid "extensions"
+msgstr "rozszerzenia"
+
+msgid "menu-system"
+msgstr "system menu"
+
+msgid "pagecache"
+msgstr "pamięć podręczna strony"
+
+msgid "plugins"
+msgstr "wtyczki"
+

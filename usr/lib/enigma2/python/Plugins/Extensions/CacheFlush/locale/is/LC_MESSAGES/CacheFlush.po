@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: is <ekekaz@gmail.com>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d mínúta"
+
+msgid "%d second"
+msgstr "%d sekúnda"
+
+msgid "Auto timeout"
+msgstr "Sjálfvirk tímamörk"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Sjálfvirk tímamörk (5-150 mín)"
+
+msgid "Automatic cache flushing"
+msgstr "Sjálfvirk skyndiminnisskolun"
+
+msgid "Cache drop type"
+msgstr "Gerð skyndiminnis"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush upplýsingar"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush Upplýsingar v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush Staða"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Clean \"
+msgstr "Hreinsa \"
+
+msgid "Clear Now"
+msgstr "Hreinsa núna"
+
+msgid "Default"
+msgstr "Sjálfgefið"
+
+msgid "Enable CacheFlush"
+msgstr "Virkjaðu CacheFlush"
+
+msgid "Free:"
+msgstr "Ókeypis:"
+
+msgid "Info"
+msgstr "Upplýsingar"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem hreinsað"
+
+msgid "Memory:"
+msgstr "Minni:"
+
+msgid "Refresh"
+msgstr "Endurnýja"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Setup CacheFlush"
+msgstr "Setja upp CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Sýna upplýsingar á skjánum"
+
+msgid "Started"
+msgstr "Byrjað"
+
+msgid "Starting"
+msgstr "Byrjar"
+
+msgid "Stopped"
+msgstr "Hætt"
+
+msgid "Time of info message"
+msgstr "Tími upplýsingaskilaboða"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tími upplýsingaskilaboða (1-10sek)"
+
+msgid "Uncached memory size"
+msgstr "Stærð óvistaðrar minnis"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Ógeymt minni: %(núverandi)s kB, (sjálfgefið: %(sjálfgefið)s kB)"
+
+msgid "Used:"
+msgstr "Notað:"
+
+msgid "event info"
+msgstr "upplýsingar um viðburð"
+
+msgid "extensions"
+msgstr "framlengingar"
+
+msgid "menu-system"
+msgstr "valmyndakerfi"
+
+msgid "pagecache"
+msgstr "síðuskyndiminni"
+
+msgid "plugins"
+msgstr "viðbætur"
+

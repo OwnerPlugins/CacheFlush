@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: bs <ekekaz@gmail.com>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuta"
+
+msgid "%d second"
+msgstr "%d sekunde"
+
+msgid "Auto timeout"
+msgstr ""
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatsko vremensko ograničenje (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatsko ispiranje keša"
+
+msgid "Cache drop type"
+msgstr "Vrsta ispuštanja keša"
+
+msgid "CacheFlush Info"
+msgstr ""
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "Clean \"
+msgstr "Očisti \"
+
+msgid "Clear Now"
+msgstr "Obriši odmah"
+
+msgid "Default"
+msgstr ""
+
+msgid "Enable CacheFlush"
+msgstr "Omogućite CacheFlush"
+
+msgid "Free:"
+msgstr "besplatno:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem je izbrisan"
+
+msgid "Memory:"
+msgstr "Memorija:"
+
+msgid "Refresh"
+msgstr "Osvježi"
+
+msgid "Save"
+msgstr "Sačuvaj"
+
+msgid "Setup CacheFlush"
+msgstr "Postavite CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Prikaži informacije na ekranu"
+
+msgid "Started"
+msgstr "Poceo"
+
+msgid "Starting"
+msgstr "Počinje"
+
+msgid "Stopped"
+msgstr "Zaustavljeno"
+
+msgid "Time of info message"
+msgstr "Vrijeme info poruke"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Vrijeme info poruke (1-10 sekundi)"
+
+msgid "Uncached memory size"
+msgstr "Veličina nekeširane memorije"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Nekeširana memorija: %(trenutna)s kB, (podrazumevano: %(zadano)s kB)"
+
+msgid "Used:"
+msgstr "Korišteno:"
+
+msgid "event info"
+msgstr "informacije o događaju"
+
+msgid "extensions"
+msgstr "ekstenzije"
+
+msgid "menu-system"
+msgstr "sistem menija"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "dodaci"
+

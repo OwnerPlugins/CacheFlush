@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: bn <ekekaz@gmail.com>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d মিনিট"
+
+msgid "%d second"
+msgstr "%d সেকেন্ড"
+
+msgid "Auto timeout"
+msgstr "স্বয়ংক্রিয় সময়সীমা"
+
+msgid "Auto timeout (5-150min)"
+msgstr "অটো টাইমআউট (5-150 মিনিট)"
+
+msgid "Automatic cache flushing"
+msgstr "স্বয়ংক্রিয় ক্যাশে ফ্লাশিং"
+
+msgid "Cache drop type"
+msgstr "ক্যাশে ড্রপ টাইপ"
+
+msgid "CacheFlush Info"
+msgstr "ক্যাশফ্লাশ তথ্য"
+
+msgid "CacheFlush Info v.%s"
+msgstr "ক্যাশফ্লাশ তথ্য v.%s"
+
+msgid "CacheFlush Status"
+msgstr "ক্যাশফ্লাশ স্ট্যাটাস"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Clean \"
+msgstr "পরিষ্কার \"
+
+msgid "Clear Now"
+msgstr "এখন সাফ করুন"
+
+msgid "Default"
+msgstr "ডিফল্ট"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush সক্ষম করুন"
+
+msgid "Free:"
+msgstr "বিনামূল্যে:"
+
+msgid "Info"
+msgstr "তথ্য"
+
+msgid "MB"
+msgstr "এমবি"
+
+msgid "Mem cleared"
+msgstr "মেম সাফ করেছে"
+
+msgid "Memory:"
+msgstr "স্মৃতি:"
+
+msgid "Refresh"
+msgstr "রিফ্রেশ"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Setup CacheFlush"
+msgstr "ক্যাশফ্লাশ সেটআপ করুন"
+
+msgid "Show info on screen"
+msgstr "স্ক্রিনে তথ্য দেখান"
+
+msgid "Started"
+msgstr "শুরু হয়েছে"
+
+msgid "Starting"
+msgstr "শুরু হচ্ছে"
+
+msgid "Stopped"
+msgstr "থেমে গেল"
+
+msgid "Time of info message"
+msgstr "তথ্য বার্তার সময়"
+
+msgid "Time of info message (1-10sec)"
+msgstr "তথ্য বার্তার সময় (1-10 সেকেন্ড)"
+
+msgid "Uncached memory size"
+msgstr "ক্যাশড মেমরির আকার"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ক্যাশড মেমরি: %(বর্তমান)s kB, ( ডিফল্ট: %(ডিফল্ট)s kB )"
+
+msgid "Used:"
+msgstr "ব্যবহৃত:"
+
+msgid "event info"
+msgstr "ইভেন্ট তথ্য"
+
+msgid "extensions"
+msgstr "এক্সটেনশন"
+
+msgid "menu-system"
+msgstr "মেনু-সিস্টেম"
+
+msgid "pagecache"
+msgstr "পেজক্যাশে"
+
+msgid "plugins"
+msgstr "প্লাগইন"
+

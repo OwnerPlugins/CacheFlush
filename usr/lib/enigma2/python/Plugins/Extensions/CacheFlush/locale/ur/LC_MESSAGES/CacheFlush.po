@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ur <ekekaz@gmail.com>\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d منٹ"
+
+msgid "%d second"
+msgstr "%d سیکنڈ"
+
+msgid "Auto timeout"
+msgstr "آٹو ٹائم آؤٹ"
+
+msgid "Auto timeout (5-150min)"
+msgstr "آٹو ٹائم آؤٹ (5-150 منٹ)"
+
+msgid "Automatic cache flushing"
+msgstr "خودکار کیش فلشنگ"
+
+msgid "Cache drop type"
+msgstr "کیشے ڈراپ کی قسم"
+
+msgid "CacheFlush Info"
+msgstr "کیش فلش کی معلومات"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush معلومات v.%s"
+
+msgid "CacheFlush Status"
+msgstr "کیش فلش اسٹیٹس"
+
+msgid "Cancel"
+msgstr "منسوخ کریں۔"
+
+msgid "Clean \"
+msgstr "صاف \"
+
+msgid "Clear Now"
+msgstr "ابھی صاف کریں۔"
+
+msgid "Default"
+msgstr "طے شدہ"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush کو فعال کریں۔"
+
+msgid "Free:"
+msgstr "مفت:"
+
+msgid "Info"
+msgstr "معلومات"
+
+msgid "MB"
+msgstr "ایم بی"
+
+msgid "Mem cleared"
+msgstr "میم نے صفائی دی۔"
+
+msgid "Memory:"
+msgstr "یادداشت:"
+
+msgid "Refresh"
+msgstr "ریفریش کریں۔"
+
+msgid "Save"
+msgstr "محفوظ کریں۔"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush سیٹ اپ کریں۔"
+
+msgid "Show info on screen"
+msgstr "اسکرین پر معلومات دکھائیں۔"
+
+msgid "Started"
+msgstr "شروع کر دیا۔"
+
+msgid "Starting"
+msgstr "شروع ہو رہا ہے۔"
+
+msgid "Stopped"
+msgstr "رک گیا۔"
+
+msgid "Time of info message"
+msgstr "معلوماتی پیغام کا وقت"
+
+msgid "Time of info message (1-10sec)"
+msgstr "معلوماتی پیغام کا وقت (1-10 سیکنڈ)"
+
+msgid "Uncached memory size"
+msgstr "غیر محفوظ شدہ میموری کا سائز"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "غیر محفوظ شدہ میموری: %(موجودہ)s kB، ( پہلے سے طے شدہ: %(default)s kB )"
+
+msgid "Used:"
+msgstr "استعمال شدہ:"
+
+msgid "event info"
+msgstr "واقعہ کی معلومات"
+
+msgid "extensions"
+msgstr "توسیعات"
+
+msgid "menu-system"
+msgstr "مینو سسٹم"
+
+msgid "pagecache"
+msgstr "صفحہ کیشے"
+
+msgid "plugins"
+msgstr "پلگ ان"
+

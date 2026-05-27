@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: pt_PT <ekekaz@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuto"
+
+msgid "%d second"
+msgstr "%d segundo"
+
+msgid "Auto timeout"
+msgstr "Tempo limite automático"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Tempo limite automático (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Liberação automática de cache"
+
+msgid "Cache drop type"
+msgstr "Tipo de descarte de cache"
+
+msgid "CacheFlush Info"
+msgstr "Informações de CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informações de CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Status do CacheFlush"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Clean \"
+msgstr "Limpar \"
+
+msgid "Clear Now"
+msgstr "Limpar agora"
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "Enable CacheFlush"
+msgstr "Habilitar CacheFlush"
+
+msgid "Free:"
+msgstr "Livre:"
+
+msgid "Info"
+msgstr "Informações"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Memória apagada"
+
+msgid "Memory:"
+msgstr "Memória:"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Setup CacheFlush"
+msgstr "Configurar CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Mostrar informações na tela"
+
+msgid "Started"
+msgstr "Iniciado"
+
+msgid "Starting"
+msgstr "Começando"
+
+msgid "Stopped"
+msgstr "Parou"
+
+msgid "Time of info message"
+msgstr "Hora da mensagem informativa"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tempo da mensagem informativa (1-10seg)"
+
+msgid "Uncached memory size"
+msgstr "Tamanho da memória sem cache"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memória não armazenada em cache: %(atual)s kB, (padrão: %(padrão)s kB)"
+
+msgid "Used:"
+msgstr "Usado:"
+
+msgid "event info"
+msgstr "informações do evento"
+
+msgid "extensions"
+msgstr "extensões"
+
+msgid "menu-system"
+msgstr "sistema de menu"
+
+msgid "pagecache"
+msgstr "cache de páginas"
+
+msgid "plugins"
+msgstr "plug-ins"
+

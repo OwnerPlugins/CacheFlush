@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ku <ekekaz@gmail.com>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d deqîqe"
+
+msgid "%d second"
+msgstr "%d çirke"
+
+msgid "Auto timeout"
+msgstr "Otomout timeout"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Demjimêra otomatîkî (5-150 hûrdem)"
+
+msgid "Automatic cache flushing"
+msgstr "Avêtina cache ya otomatîkî"
+
+msgid "Cache drop type"
+msgstr "Cureyê avêtina cache"
+
+msgid "CacheFlush Info"
+msgstr "Agahdariya CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Agahdariya CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Rewşa CacheFlush"
+
+msgid "Cancel"
+msgstr "Bişûndekirin"
+
+msgid "Clean \"
+msgstr "Paqij \"
+
+msgid "Clear Now"
+msgstr "Niha paqij bike"
+
+msgid "Default"
+msgstr "Destçûnî"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush çalak bike"
+
+msgid "Free:"
+msgstr "Belaş:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem paqij kir"
+
+msgid "Memory:"
+msgstr "Bîr:"
+
+msgid "Refresh"
+msgstr "Hênikkirin"
+
+msgid "Save"
+msgstr "Rizgarkirin"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush saz bike"
+
+msgid "Show info on screen"
+msgstr "Agahdariyê li ser ekranê nîşan bide"
+
+msgid "Started"
+msgstr "Dest pê kir"
+
+msgid "Starting"
+msgstr "Destpêkirin"
+
+msgid "Stopped"
+msgstr "Rawestiyan"
+
+msgid "Time of info message"
+msgstr "Dema peyama agahdariyê"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Dema peyama agahdariyê (1-10 saniye)"
+
+msgid "Uncached memory size"
+msgstr "Mezinahiya bîranîna neçaxkirî"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Bîra nekêşbar: %(niha)s kB, ( xwerû: %(default)s kB)"
+
+msgid "Used:"
+msgstr "Bikaranîn:"
+
+msgid "event info"
+msgstr "agahî bûyerê"
+
+msgid "extensions"
+msgstr "dirêjkirinên"
+
+msgid "menu-system"
+msgstr "menu-sîstema"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "pêvekên"
+

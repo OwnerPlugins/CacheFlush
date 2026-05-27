@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hr <ekekaz@gmail.com>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuta"
+
+msgid "%d second"
+msgstr "%d sekunda"
+
+msgid "Auto timeout"
+msgstr "Automatski istek vremena"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatski istek (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatsko ispiranje predmemorije"
+
+msgid "Cache drop type"
+msgstr "Vrsta pada predmemorije"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush informacije"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informacije o CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Status CacheFlush"
+
+msgid "Cancel"
+msgstr "Otkazati"
+
+msgid "Clean \"
+msgstr "čisti \"
+
+msgid "Clear Now"
+msgstr "Očisti sada"
+
+msgid "Default"
+msgstr "Zadano"
+
+msgid "Enable CacheFlush"
+msgstr "Omogući CacheFlush"
+
+msgid "Free:"
+msgstr "Besplatno:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem izbrisan"
+
+msgid "Memory:"
+msgstr "Memorija:"
+
+msgid "Refresh"
+msgstr "Osvježiti"
+
+msgid "Save"
+msgstr "Uštedjeti"
+
+msgid "Setup CacheFlush"
+msgstr "Postavite CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Prikaži informacije na ekranu"
+
+msgid "Started"
+msgstr "Započelo"
+
+msgid "Starting"
+msgstr "Počinje"
+
+msgid "Stopped"
+msgstr "Zaustavljeno"
+
+msgid "Time of info message"
+msgstr "Vrijeme info poruke"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Vrijeme info poruke (1-10s)"
+
+msgid "Uncached memory size"
+msgstr "Veličina memorije bez predmemorije"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memorija bez predmemorije: %(trenutno)s kB, (zadano: %(zadano)s kB)"
+
+msgid "Used:"
+msgstr "korišteno:"
+
+msgid "event info"
+msgstr "informacije o događaju"
+
+msgid "extensions"
+msgstr "proširenja"
+
+msgid "menu-system"
+msgstr "sustav izbornika"
+
+msgid "pagecache"
+msgstr "predmemorija stranice"
+
+msgid "plugins"
+msgstr "dodaci"
+

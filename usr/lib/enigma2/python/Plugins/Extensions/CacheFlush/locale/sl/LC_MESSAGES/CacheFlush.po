@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sl <ekekaz@gmail.com>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuta"
+
+msgid "%d second"
+msgstr "%d sekunda"
+
+msgid "Auto timeout"
+msgstr "Samodejna časovna omejitev"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Samodejna časovna omejitev (5–150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Samodejno izpiranje predpomnilnika"
+
+msgid "Cache drop type"
+msgstr "Vrsta padca predpomnilnika"
+
+msgid "CacheFlush Info"
+msgstr "Informacije o CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informacije o CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Stanje CacheFlush"
+
+msgid "Cancel"
+msgstr "Prekliči"
+
+msgid "Clean \"
+msgstr "Čisto \"
+
+msgid "Clear Now"
+msgstr "Počisti zdaj"
+
+msgid "Default"
+msgstr "Privzeto"
+
+msgid "Enable CacheFlush"
+msgstr "Omogoči CacheFlush"
+
+msgid "Free:"
+msgstr "brezplačno:"
+
+msgid "Info"
+msgstr "Informacije"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem počiščen"
+
+msgid "Memory:"
+msgstr "Pomnilnik:"
+
+msgid "Refresh"
+msgstr "Osveži"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Setup CacheFlush"
+msgstr "Nastavite CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Prikaži informacije na zaslonu"
+
+msgid "Started"
+msgstr "Začelo"
+
+msgid "Starting"
+msgstr "Začetek"
+
+msgid "Stopped"
+msgstr "ustavil"
+
+msgid "Time of info message"
+msgstr "Čas info sporočila"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Čas informativnega sporočila (1-10s)"
+
+msgid "Uncached memory size"
+msgstr "Velikost nepredpomnjenega pomnilnika"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Nepredpomnjen pomnilnik: %(trenutno)s kB, (privzeto: %(privzeto)s kB)"
+
+msgid "Used:"
+msgstr "Rabljeno:"
+
+msgid "event info"
+msgstr "informacije o dogodku"
+
+msgid "extensions"
+msgstr "razširitve"
+
+msgid "menu-system"
+msgstr "menijski sistem"
+
+msgid "pagecache"
+msgstr "predpomnilnik strani"
+
+msgid "plugins"
+msgstr "vtičniki"
+

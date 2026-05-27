@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: si <ekekaz@gmail.com>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "මිනිත්තු %d"
+
+msgid "%d second"
+msgstr "තත්පර %d"
+
+msgid "Auto timeout"
+msgstr "ස්වයංක්‍රීය කල් ඉකුත්වීම"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ස්වයංක්‍රීය කල් ඉකුත්වීම (මිනිත්තු 5-150)"
+
+msgid "Automatic cache flushing"
+msgstr "ස්වයංක්‍රීය හැඹිලිය සේදීම"
+
+msgid "Cache drop type"
+msgstr "හැඹිලි වැටීමේ වර්ගය"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush තොරතුරු"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush තොරතුරු v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush තත්ත්වය"
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Clean \"
+msgstr "පිරිසිදු \"
+
+msgid "Clear Now"
+msgstr "දැන් පැහැදිලි කරන්න"
+
+msgid "Default"
+msgstr "පෙරනිමිය"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush සබල කරන්න"
+
+msgid "Free:"
+msgstr "නොමිලේ:"
+
+msgid "Info"
+msgstr "තොරතුරු"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "මේම් ක්ලියර් කළා"
+
+msgid "Memory:"
+msgstr "මතකය:"
+
+msgid "Refresh"
+msgstr "නැවුම් කරන්න"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush සකසන්න"
+
+msgid "Show info on screen"
+msgstr "තිරය ​​මත තොරතුරු පෙන්වන්න"
+
+msgid "Started"
+msgstr "පටන් ගත්තා"
+
+msgid "Starting"
+msgstr "පටන් ගන්නවා"
+
+msgid "Stopped"
+msgstr "නැවැත්තුවා"
+
+msgid "Time of info message"
+msgstr "තොරතුරු පණිවිඩයේ වේලාව"
+
+msgid "Time of info message (1-10sec)"
+msgstr "තොරතුරු පණිවිඩයේ වේලාව (තත්පර 1-10)"
+
+msgid "Uncached memory size"
+msgstr "ගබඩා නොකළ මතක ප්‍රමාණය"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ගබඩා නොකළ මතකය: %(වත්මන්)s kB, (පෙරනිමිය: %(default)s kB )"
+
+msgid "Used:"
+msgstr "භාවිත:"
+
+msgid "event info"
+msgstr "සිදුවීම් තොරතුරු"
+
+msgid "extensions"
+msgstr "දිගු"
+
+msgid "menu-system"
+msgstr "මෙනු පද්ධතිය"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "ප්ලගින"
+

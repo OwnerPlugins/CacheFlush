@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ko <ekekaz@gmail.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d분"
+
+msgid "%d second"
+msgstr "%d초"
+
+msgid "Auto timeout"
+msgstr "자동 시간 초과"
+
+msgid "Auto timeout (5-150min)"
+msgstr "자동 시간 초과(5~150분)"
+
+msgid "Automatic cache flushing"
+msgstr "자동 캐시 플러시"
+
+msgid "Cache drop type"
+msgstr "캐시 삭제 유형"
+
+msgid "CacheFlush Info"
+msgstr "캐시플러시 정보"
+
+msgid "CacheFlush Info v.%s"
+msgstr "캐시 플러시 정보 v.%s"
+
+msgid "CacheFlush Status"
+msgstr "캐시 플러시 상태"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Clean \"
+msgstr "깨끗한 \"
+
+msgid "Clear Now"
+msgstr "지금 지우기"
+
+msgid "Default"
+msgstr "기본"
+
+msgid "Enable CacheFlush"
+msgstr "캐시 플러시 활성화"
+
+msgid "Free:"
+msgstr "무료:"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "메모리가 삭제되었습니다"
+
+msgid "Memory:"
+msgstr "메모리:"
+
+msgid "Refresh"
+msgstr "새로 고치다"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Setup CacheFlush"
+msgstr "캐시플러시 설정"
+
+msgid "Show info on screen"
+msgstr "화면에 정보 표시"
+
+msgid "Started"
+msgstr "시작됨"
+
+msgid "Starting"
+msgstr "시작"
+
+msgid "Stopped"
+msgstr "중지됨"
+
+msgid "Time of info message"
+msgstr "정보 메시지 시간"
+
+msgid "Time of info message (1-10sec)"
+msgstr "정보 메시지 시간(1~10초)"
+
+msgid "Uncached memory size"
+msgstr "캐시되지 않은 메모리 크기"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "캐시되지 않은 메모리: %(current)s kB, ( 기본값: %(default)s kB )"
+
+msgid "Used:"
+msgstr "사용된:"
+
+msgid "event info"
+msgstr "이벤트 정보"
+
+msgid "extensions"
+msgstr "확장"
+
+msgid "menu-system"
+msgstr "메뉴 시스템"
+
+msgid "pagecache"
+msgstr "페이지 캐시"
+
+msgid "plugins"
+msgstr "플러그인"
+

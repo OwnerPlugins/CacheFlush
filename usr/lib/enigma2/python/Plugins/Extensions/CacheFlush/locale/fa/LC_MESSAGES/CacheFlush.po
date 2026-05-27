@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fa <ekekaz@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d دقیقه"
+
+msgid "%d second"
+msgstr "%d ثانیه"
+
+msgid "Auto timeout"
+msgstr "وقفه خودکار"
+
+msgid "Auto timeout (5-150min)"
+msgstr "وقفه خودکار (5-150 دقیقه)"
+
+msgid "Automatic cache flushing"
+msgstr "شستشوی خودکار کش"
+
+msgid "Cache drop type"
+msgstr "نوع افت حافظه پنهان"
+
+msgid "CacheFlush Info"
+msgstr "اطلاعات CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "وضعیت CacheFlush"
+
+msgid "Cancel"
+msgstr "لغو کنید"
+
+msgid "Clean \"
+msgstr "پاک \"
+
+msgid "Clear Now"
+msgstr "اکنون پاک کنید"
+
+msgid "Default"
+msgstr "پیش فرض"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush را فعال کنید"
+
+msgid "Free:"
+msgstr "رایگان:"
+
+msgid "Info"
+msgstr "اطلاعات"
+
+msgid "MB"
+msgstr "مگابایت"
+
+msgid "Mem cleared"
+msgstr "مم پاک شد"
+
+msgid "Memory:"
+msgstr "حافظه:"
+
+msgid "Refresh"
+msgstr "تازه کردن"
+
+msgid "Save"
+msgstr "ذخیره کنید"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush را راه اندازی کنید"
+
+msgid "Show info on screen"
+msgstr "نمایش اطلاعات روی صفحه"
+
+msgid "Started"
+msgstr "شروع شد"
+
+msgid "Starting"
+msgstr "شروع کردن"
+
+msgid "Stopped"
+msgstr "متوقف شد"
+
+msgid "Time of info message"
+msgstr "زمان ارسال پیام"
+
+msgid "Time of info message (1-10sec)"
+msgstr "زمان ارسال پیام اطلاعات (1-10 ثانیه)"
+
+msgid "Uncached memory size"
+msgstr "اندازه حافظه پنهان نشده"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "حافظه ذخیره نشده: %(current)s kB, ( پیش فرض: %(default)s kB )"
+
+msgid "Used:"
+msgstr "مورد استفاده:"
+
+msgid "event info"
+msgstr "اطلاعات رویداد"
+
+msgid "extensions"
+msgstr "پسوندها"
+
+msgid "menu-system"
+msgstr "منو-سیستم"
+
+msgid "pagecache"
+msgstr "کش صفحه"
+
+msgid "plugins"
+msgstr "پلاگین ها"
+

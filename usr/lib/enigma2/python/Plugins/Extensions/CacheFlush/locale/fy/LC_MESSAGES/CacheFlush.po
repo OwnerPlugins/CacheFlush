@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: fy <ekekaz@gmail.com>\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minút"
+
+msgid "%d second"
+msgstr "%d sekonde"
+
+msgid "Auto timeout"
+msgstr ""
+
+msgid "Auto timeout (5-150min)"
+msgstr "Auto timeout (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatysk spoelen fan cache"
+
+msgid "Cache drop type"
+msgstr ""
+
+msgid "CacheFlush Info"
+msgstr ""
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Ofbrekke"
+
+msgid "Clean \"
+msgstr "skjin \"
+
+msgid "Clear Now"
+msgstr "Wiskje no"
+
+msgid "Default"
+msgstr "Standert"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush ynskeakelje"
+
+msgid "Free:"
+msgstr "Frij:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem ferwidere"
+
+msgid "Memory:"
+msgstr "Oantinken:"
+
+msgid "Refresh"
+msgstr "Ferfarskje"
+
+msgid "Save"
+msgstr "Rêde"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush ynstelle"
+
+msgid "Show info on screen"
+msgstr "Toan ynformaasje op it skerm"
+
+msgid "Started"
+msgstr "Begûn"
+
+msgid "Starting"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Ophâlden"
+
+msgid "Time of info message"
+msgstr "Tiid fan info berjocht"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tiid fan ynformaasjeberjocht (1-10 sekonden)"
+
+msgid "Uncached memory size"
+msgstr "Uncached ûnthâld grutte"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Uncached ûnthâld: %(aktuele)s kB, (standert: %(standert)s kB)"
+
+msgid "Used:"
+msgstr "Brûkt:"
+
+msgid "event info"
+msgstr "evenemint ynfo"
+
+msgid "extensions"
+msgstr "útwreidings"
+
+msgid "menu-system"
+msgstr "menu-systeem"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr ""
+

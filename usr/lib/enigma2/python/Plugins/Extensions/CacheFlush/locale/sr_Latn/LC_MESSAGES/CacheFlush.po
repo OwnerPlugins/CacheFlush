@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sr_Latn <ekekaz@gmail.com>\n"
+"Language: sr_Latn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%д минута"
+
+msgid "%d second"
+msgstr "%д секунда"
+
+msgid "Auto timeout"
+msgstr "Ауто тимеоут"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Аутоматско временско ограничење (5-150 мин)"
+
+msgid "Automatic cache flushing"
+msgstr "Аутоматско испирање кеша"
+
+msgid "Cache drop type"
+msgstr "Тип испуштања кеша"
+
+msgid "CacheFlush Info"
+msgstr "ЦацхеФлусх Инфо"
+
+msgid "CacheFlush Info v.%s"
+msgstr "ЦацхеФлусх Инфо в.%с"
+
+msgid "CacheFlush Status"
+msgstr "ЦацхеФлусх Статус"
+
+msgid "Cancel"
+msgstr "Откажи"
+
+msgid "Clean \"
+msgstr "Чисти \"
+
+msgid "Clear Now"
+msgstr "Обриши одмах"
+
+msgid "Default"
+msgstr "Подразумевано"
+
+msgid "Enable CacheFlush"
+msgstr "Омогући ЦацхеФлусх"
+
+msgid "Free:"
+msgstr "Бесплатно:"
+
+msgid "Info"
+msgstr "Инфо"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "Mem cleared"
+msgstr "Мем је избрисан"
+
+msgid "Memory:"
+msgstr "Меморија:"
+
+msgid "Refresh"
+msgstr "Освежи"
+
+msgid "Save"
+msgstr "Сачувај"
+
+msgid "Setup CacheFlush"
+msgstr "Сетуп ЦацхеФлусх"
+
+msgid "Show info on screen"
+msgstr "Прикажи информације на екрану"
+
+msgid "Started"
+msgstr "Почело"
+
+msgid "Starting"
+msgstr "Почиње"
+
+msgid "Stopped"
+msgstr "Заустављено"
+
+msgid "Time of info message"
+msgstr "Време инфо поруке"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Време инфо поруке (1-10 секунди)"
+
+msgid "Uncached memory size"
+msgstr "Величина некеширане меморије"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Некеширана меморија: %(цуррент)с кБ, (подразумевано: %(подразумевано)с кБ)"
+
+msgid "Used:"
+msgstr "Користи се:"
+
+msgid "event info"
+msgstr "информације о догађају"
+
+msgid "extensions"
+msgstr "проширења"
+
+msgid "menu-system"
+msgstr "систем менија"
+
+msgid "pagecache"
+msgstr "пагецацхе"
+
+msgid "plugins"
+msgstr "додаци"
+

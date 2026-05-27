@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mn <ekekaz@gmail.com>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d минут"
+
+msgid "%d second"
+msgstr "%d секунд"
+
+msgid "Auto timeout"
+msgstr "Автомат хугацаа хэтэрсэн"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Автомат завсарлага (5-150 мин)"
+
+msgid "Automatic cache flushing"
+msgstr "Автомат кэш цэвэрлэх"
+
+msgid "Cache drop type"
+msgstr "Кэш буулгах төрөл"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush мэдээлэл"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush мэдээлэл v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush статус"
+
+msgid "Cancel"
+msgstr "Цуцлах"
+
+msgid "Clean \"
+msgstr "Цэвэр \"
+
+msgid "Clear Now"
+msgstr "Одоо арилгах"
+
+msgid "Default"
+msgstr "Өгөгдмөл"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush-ийг идэвхжүүлнэ үү"
+
+msgid "Free:"
+msgstr "Үнэгүй:"
+
+msgid "Info"
+msgstr "Мэдээлэл"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "Mem cleared"
+msgstr "Мем цэвэрлэв"
+
+msgid "Memory:"
+msgstr "Санах ой:"
+
+msgid "Refresh"
+msgstr "Сэргээх"
+
+msgid "Save"
+msgstr "Хадгалах"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush-ийг тохируулна уу"
+
+msgid "Show info on screen"
+msgstr "Дэлгэц дээр мэдээллийг харуулах"
+
+msgid "Started"
+msgstr "Эхэлсэн"
+
+msgid "Starting"
+msgstr "Эхэлж байна"
+
+msgid "Stopped"
+msgstr "Зогссон"
+
+msgid "Time of info message"
+msgstr "Мэдээллийн мессежийн цаг"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Мэдээллийн мессежийн хугацаа (1-10 секунд)"
+
+msgid "Uncached memory size"
+msgstr "Кэшгүй санах ойн хэмжээ"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Кэшгүй санах ой: %(одоогийн)s кБ, (өгөгдмөл: %(өгөгдмөл)s кБ )"
+
+msgid "Used:"
+msgstr "Ашигласан:"
+
+msgid "event info"
+msgstr "үйл явдлын мэдээлэл"
+
+msgid "extensions"
+msgstr "өргөтгөлүүд"
+
+msgid "menu-system"
+msgstr "цэс-систем"
+
+msgid "pagecache"
+msgstr "хуудасны кэш"
+
+msgid "plugins"
+msgstr "залгаасууд"
+

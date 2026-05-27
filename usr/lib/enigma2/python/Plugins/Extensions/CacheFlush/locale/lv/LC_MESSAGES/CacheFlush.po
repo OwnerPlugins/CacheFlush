@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: lv <ekekaz@gmail.com>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minūte"
+
+msgid "%d second"
+msgstr "%d sekunde"
+
+msgid "Auto timeout"
+msgstr "Automātiskais taimauts"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automātiskais taimauts (5–150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automātiska kešatmiņas skalošana"
+
+msgid "Cache drop type"
+msgstr "Kešatmiņas nomešanas veids"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush informācija"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush informācija v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush statuss"
+
+msgid "Cancel"
+msgstr "Atcelt"
+
+msgid "Clean \"
+msgstr "Tīrs \"
+
+msgid "Clear Now"
+msgstr "Notīrīt tūlīt"
+
+msgid "Default"
+msgstr "Noklusējums"
+
+msgid "Enable CacheFlush"
+msgstr "Iespējot CacheFlush"
+
+msgid "Free:"
+msgstr "Bezmaksas:"
+
+msgid "Info"
+msgstr "Informācija"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Atmiņa notīrīta"
+
+msgid "Memory:"
+msgstr "Atmiņa:"
+
+msgid "Refresh"
+msgstr "Atsvaidzināt"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Setup CacheFlush"
+msgstr "Iestatiet CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Rādīt informāciju ekrānā"
+
+msgid "Started"
+msgstr "Sākts"
+
+msgid "Starting"
+msgstr "Sākas"
+
+msgid "Stopped"
+msgstr "Apstājās"
+
+msgid "Time of info message"
+msgstr "Informācijas ziņojuma laiks"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Informācijas ziņojuma laiks (1–10 s)"
+
+msgid "Uncached memory size"
+msgstr "Nekešatmiņas apjoms"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Nekešatmiņā saglabātā atmiņa: %(current)s kB, (noklusējums: %(noklusējums)s kB )"
+
+msgid "Used:"
+msgstr "Lietots:"
+
+msgid "event info"
+msgstr "pasākuma informācija"
+
+msgid "extensions"
+msgstr "paplašinājumi"
+
+msgid "menu-system"
+msgstr "izvēlnes sistēma"
+
+msgid "pagecache"
+msgstr "lapas kešatmiņa"
+
+msgid "plugins"
+msgstr "spraudņi"
+

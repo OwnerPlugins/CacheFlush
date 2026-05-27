@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eu <ekekaz@gmail.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minutu"
+
+msgid "%d second"
+msgstr "%d segundo"
+
+msgid "Auto timeout"
+msgstr "Denbora-muga automatikoa"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Denbora-muga automatikoa (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Cache-ko garbiketa automatikoa"
+
+msgid "Cache drop type"
+msgstr "Cache botatzeko mota"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush informazioa"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush egoera"
+
+msgid "Cancel"
+msgstr "Utzi"
+
+msgid "Clean \"
+msgstr "Garbitu \"
+
+msgid "Clear Now"
+msgstr "Garbitu orain"
+
+msgid "Default"
+msgstr "Lehenetsia"
+
+msgid "Enable CacheFlush"
+msgstr "Gaitu CacheFlush"
+
+msgid "Free:"
+msgstr "Doan:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Memek garbitu zuen"
+
+msgid "Memory:"
+msgstr "Memoria:"
+
+msgid "Refresh"
+msgstr "Freskatu"
+
+msgid "Save"
+msgstr "Gorde"
+
+msgid "Setup CacheFlush"
+msgstr "Konfiguratu CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Erakutsi informazioa pantailan"
+
+msgid "Started"
+msgstr "Hasi da"
+
+msgid "Starting"
+msgstr "Hasita"
+
+msgid "Stopped"
+msgstr "Gelditu"
+
+msgid "Time of info message"
+msgstr "Informazio-mezuaren ordua"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Informazio-mezuaren denbora (1-10 segundo)"
+
+msgid "Uncached memory size"
+msgstr "Cache gabeko memoriaren tamaina"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Cache gabeko memoria: %(current)s kB, (lehenetsia: %(default)s kB)"
+
+msgid "Used:"
+msgstr "Erabilia:"
+
+msgid "event info"
+msgstr "gertaeraren informazioa"
+
+msgid "extensions"
+msgstr "luzapenak"
+
+msgid "menu-system"
+msgstr "menu-sistema"
+
+msgid "pagecache"
+msgstr "orrialde-cachea"
+
+msgid "plugins"
+msgstr "pluginak"
+

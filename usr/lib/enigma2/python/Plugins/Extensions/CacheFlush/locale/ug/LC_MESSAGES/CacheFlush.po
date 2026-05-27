@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ug <ekekaz@gmail.com>\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "% d مىنۇت"
+
+msgid "%d second"
+msgstr "% d سېكۇنت"
+
+msgid "Auto timeout"
+msgstr "ئاپتوماتىك ۋاقىت"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ئاپتوماتىك ۋاقىت (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "ئاپتوماتىك ساقلىغۇچ"
+
+msgid "Cache drop type"
+msgstr "كەش تاشلاش تىپى"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush ئۇچۇرى"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush ئۇچۇرلىرى% s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush ھالىتى"
+
+msgid "Cancel"
+msgstr "بىكار قىلىش"
+
+msgid "Clean \"
+msgstr "پاكىز \"
+
+msgid "Clear Now"
+msgstr ""
+
+msgid "Default"
+msgstr "سۈكۈتتىكى"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush نى قوزغىتىڭ"
+
+msgid "Free:"
+msgstr "ھەقسىز:"
+
+msgid "Info"
+msgstr "ئۇچۇر"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem تازىلاندى"
+
+msgid "Memory:"
+msgstr "ئەستە ساقلاش:"
+
+msgid "Refresh"
+msgstr "يېڭىلاش"
+
+msgid "Save"
+msgstr "ساقلاش"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush نى تەڭشەش"
+
+msgid "Show info on screen"
+msgstr "ئېكراندا ئۇچۇر كۆرسەت"
+
+msgid "Started"
+msgstr "باشلاندى"
+
+msgid "Starting"
+msgstr "باشلاش"
+
+msgid "Stopped"
+msgstr "توختىدى"
+
+msgid "Time of info message"
+msgstr "ئۇچۇر ئۇچۇرىنىڭ ۋاقتى"
+
+msgid "Time of info message (1-10sec)"
+msgstr "ئۇچۇر ئۇچۇرىنىڭ ۋاقتى (1-10 سېكۇنت)"
+
+msgid "Uncached memory size"
+msgstr "ساقلانمىغان ئىچكى ساقلىغۇچ"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ساقلانمىغان ئىچكى ساقلىغۇچ:% (نۆۋەتتىكى) s kB ، (سۈكۈتتىكى:% (سۈكۈتتىكى) s kB)"
+
+msgid "Used:"
+msgstr "ئىشلىتىلگەن:"
+
+msgid "event info"
+msgstr "ھادىسە ئۇچۇرى"
+
+msgid "extensions"
+msgstr "كېڭەيتىلمە"
+
+msgid "menu-system"
+msgstr "تىزىملىك ​​سىستېمىسى"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "قىستۇرمىلار"
+

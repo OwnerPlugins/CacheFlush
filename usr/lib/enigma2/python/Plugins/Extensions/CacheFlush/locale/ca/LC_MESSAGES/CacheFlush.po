@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ca <ekekaz@gmail.com>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minut"
+
+msgid "%d second"
+msgstr "%d segon"
+
+msgid "Auto timeout"
+msgstr "Temps d'espera automàtic"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Temps d'espera automàtic (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Esborrat automàtic de la memòria cau"
+
+msgid "Cache drop type"
+msgstr "Tipus de caiguda de memòria cau"
+
+msgid "CacheFlush Info"
+msgstr "Informació de CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informació de CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Estat de CacheFlush"
+
+msgid "Cancel"
+msgstr "Cancel·la"
+
+msgid "Clean \"
+msgstr "Neteja \"
+
+msgid "Clear Now"
+msgstr "Esborra ara"
+
+msgid "Default"
+msgstr "Per defecte"
+
+msgid "Enable CacheFlush"
+msgstr "Habiliteu CacheFlush"
+
+msgid "Free:"
+msgstr "Gratuït:"
+
+msgid "Info"
+msgstr "Informació"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem es va netejar"
+
+msgid "Memory:"
+msgstr "Memòria:"
+
+msgid "Refresh"
+msgstr "Actualitza"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Setup CacheFlush"
+msgstr "Configura CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Mostra informació a la pantalla"
+
+msgid "Started"
+msgstr "Començat"
+
+msgid "Starting"
+msgstr "Començant"
+
+msgid "Stopped"
+msgstr "Parat"
+
+msgid "Time of info message"
+msgstr "Hora del missatge d'informació"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Hora del missatge d'informació (1-10 segons)"
+
+msgid "Uncached memory size"
+msgstr "Mida de memòria sense memòria cau"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memòria sense memòria cau: %(current)s kB, (per defecte: %(default)s kB)"
+
+msgid "Used:"
+msgstr "Usat:"
+
+msgid "event info"
+msgstr "informació de l'esdeveniment"
+
+msgid "extensions"
+msgstr ""
+
+msgid "menu-system"
+msgstr "sistema de menús"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "connectors"
+

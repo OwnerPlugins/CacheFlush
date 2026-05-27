@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hy <ekekaz@gmail.com>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d րոպե"
+
+msgid "%d second"
+msgstr "%d վայրկյան"
+
+msgid "Auto timeout"
+msgstr "Ավտոմատ դադար"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Ավտոմատ դադար (5-150 րոպե)"
+
+msgid "Automatic cache flushing"
+msgstr "Քեշի ավտոմատ լվացում"
+
+msgid "Cache drop type"
+msgstr "Քեշի անկման տեսակը"
+
+msgid "CacheFlush Info"
+msgstr ""
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush կարգավիճակը"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Clean \"
+msgstr "Մաքուր \"
+
+msgid "Clear Now"
+msgstr "Մաքրել հիմա"
+
+msgid "Default"
+msgstr "Կանխադրված"
+
+msgid "Enable CacheFlush"
+msgstr "Միացնել CacheFlush-ը"
+
+msgid "Free:"
+msgstr "Անվճար:"
+
+msgid "Info"
+msgstr "Ինֆո"
+
+msgid "MB"
+msgstr "ՄԲ"
+
+msgid "Mem cleared"
+msgstr "Մեմը մաքրվեց"
+
+msgid "Memory:"
+msgstr "Հիշողություն:"
+
+msgid "Refresh"
+msgstr "Թարմացնել"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Setup CacheFlush"
+msgstr "Կարգավորեք CacheFlush-ը"
+
+msgid "Show info on screen"
+msgstr "Ցույց տալ տեղեկատվությունը էկրանին"
+
+msgid "Started"
+msgstr "Սկսվել է"
+
+msgid "Starting"
+msgstr "Սկսած"
+
+msgid "Stopped"
+msgstr "Դադարեցվեց"
+
+msgid "Time of info message"
+msgstr "Տեղեկատվական հաղորդագրության ժամանակը"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Տեղեկատվական հաղորդագրության ժամանակը (1-10 վրկ)"
+
+msgid "Uncached memory size"
+msgstr "Չքեշավորված հիշողության չափը"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Չքեշավորված հիշողություն՝ %(current)s kB, ( default՝ %(default)s kB )"
+
+msgid "Used:"
+msgstr "Օգտագործված:"
+
+msgid "event info"
+msgstr "իրադարձության մասին տեղեկատվություն"
+
+msgid "extensions"
+msgstr "ընդարձակումներ"
+
+msgid "menu-system"
+msgstr "մենյու-համակարգ"
+
+msgid "pagecache"
+msgstr "էջի քեշ"
+
+msgid "plugins"
+msgstr "պլագիններ"
+

@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: km <ekekaz@gmail.com>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d នាទី។"
+
+msgid "%d second"
+msgstr "%d វិនាទី"
+
+msgid "Auto timeout"
+msgstr "អស់ពេលដោយស្វ័យប្រវត្តិ"
+
+msgid "Auto timeout (5-150min)"
+msgstr "អស់ពេលដោយស្វ័យប្រវត្តិ (5-150 នាទី)"
+
+msgid "Automatic cache flushing"
+msgstr "ការសម្អាតឃ្លាំងសម្ងាត់ដោយស្វ័យប្រវត្តិ"
+
+msgid "Cache drop type"
+msgstr "ប្រភេទទម្លាក់ឃ្លាំងសម្ងាត់"
+
+msgid "CacheFlush Info"
+msgstr "ព័ត៌មាន CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "ព័ត៌មាន CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "ស្ថានភាព CacheFlush"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "Clean \"
+msgstr "សម្អាត \"
+
+msgid "Clear Now"
+msgstr "ជម្រះឥឡូវនេះ"
+
+msgid "Default"
+msgstr "លំនាំដើម"
+
+msgid "Enable CacheFlush"
+msgstr "បើកដំណើរការ CacheFlush"
+
+msgid "Free:"
+msgstr "ឥតគិតថ្លៃ៖"
+
+msgid "Info"
+msgstr "ព័ត៌មាន"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "មេមបានជម្រះ"
+
+msgid "Memory:"
+msgstr "អង្គចងចាំ៖"
+
+msgid "Refresh"
+msgstr "ធ្វើឱ្យស្រស់"
+
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgid "Setup CacheFlush"
+msgstr "ដំឡើង CacheFlush"
+
+msgid "Show info on screen"
+msgstr "បង្ហាញព័ត៌មាននៅលើអេក្រង់"
+
+msgid "Started"
+msgstr "បានចាប់ផ្តើម"
+
+msgid "Starting"
+msgstr "ចាប់ផ្តើម"
+
+msgid "Stopped"
+msgstr "ឈប់"
+
+msgid "Time of info message"
+msgstr "ពេលវេលានៃសារពត៌មាន"
+
+msgid "Time of info message (1-10sec)"
+msgstr "ពេលវេលានៃសារពត៌មាន (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "ទំហំអង្គចងចាំដែលមិនបានរក្សាទុក"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "អង្គចងចាំដែលមិនបានរក្សាទុក៖ %(បច្ចុប្បន្ន)s kB, (លំនាំដើម៖ %(លំនាំដើម)s kB)"
+
+msgid "Used:"
+msgstr "បានប្រើ៖"
+
+msgid "event info"
+msgstr "ព័ត៌មានព្រឹត្តិការណ៍"
+
+msgid "extensions"
+msgstr "ផ្នែកបន្ថែម"
+
+msgid "menu-system"
+msgstr "ប្រព័ន្ធម៉ឺនុយ"
+
+msgid "pagecache"
+msgstr "ទំព័រឃ្លាំងសម្ងាត់"
+
+msgid "plugins"
+msgstr "កម្មវិធីជំនួយ"
+

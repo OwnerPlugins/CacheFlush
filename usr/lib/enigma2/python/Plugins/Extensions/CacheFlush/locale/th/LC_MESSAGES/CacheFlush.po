@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: th <ekekaz@gmail.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d นาที"
+
+msgid "%d second"
+msgstr "%d วินาที"
+
+msgid "Auto timeout"
+msgstr "หมดเวลาอัตโนมัติ"
+
+msgid "Auto timeout (5-150min)"
+msgstr "หมดเวลาอัตโนมัติ (5-150 นาที)"
+
+msgid "Automatic cache flushing"
+msgstr "การล้างแคชอัตโนมัติ"
+
+msgid "Cache drop type"
+msgstr "ประเภทการวางแคช"
+
+msgid "CacheFlush Info"
+msgstr "ข้อมูลแคชฟลัช"
+
+msgid "CacheFlush Info v.%s"
+msgstr "ข้อมูล CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "สถานะแคชฟลัช"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Clean \"
+msgstr "ทำความสะอาด \"
+
+msgid "Clear Now"
+msgstr "เคลียร์เลย"
+
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+msgid "Enable CacheFlush"
+msgstr "เปิดใช้งานแคชฟลัช"
+
+msgid "Free:"
+msgstr "ฟรี:"
+
+msgid "Info"
+msgstr "ข้อมูล"
+
+msgid "MB"
+msgstr "เอ็มบี"
+
+msgid "Mem cleared"
+msgstr "เมมเคลียร์แล้ว"
+
+msgid "Memory:"
+msgstr "หน่วยความจำ:"
+
+msgid "Refresh"
+msgstr "รีเฟรช"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Setup CacheFlush"
+msgstr "ตั้งค่าแคชฟลัช"
+
+msgid "Show info on screen"
+msgstr "แสดงข้อมูลบนหน้าจอ"
+
+msgid "Started"
+msgstr "เริ่ม"
+
+msgid "Starting"
+msgstr "กำลังเริ่มต้น"
+
+msgid "Stopped"
+msgstr "หยุดแล้ว"
+
+msgid "Time of info message"
+msgstr "เวลาของข้อความข้อมูล"
+
+msgid "Time of info message (1-10sec)"
+msgstr "เวลาของข้อความข้อมูล (1-10 วินาที)"
+
+msgid "Uncached memory size"
+msgstr "ขนาดหน่วยความจำที่ไม่ได้แคช"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "หน่วยความจำที่ไม่ได้แคช: %(ปัจจุบัน)s kB, ( ค่าเริ่มต้น: %(ค่าเริ่มต้น)s kB )"
+
+msgid "Used:"
+msgstr "ใช้แล้ว:"
+
+msgid "event info"
+msgstr "ข้อมูลเหตุการณ์"
+
+msgid "extensions"
+msgstr "ส่วนขยาย"
+
+msgid "menu-system"
+msgstr "เมนู-ระบบ"
+
+msgid "pagecache"
+msgstr "แคชเพจ"
+
+msgid "plugins"
+msgstr "ปลั๊กอิน"
+

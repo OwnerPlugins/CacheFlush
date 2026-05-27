@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hu <ekekaz@gmail.com>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d perc"
+
+msgid "%d second"
+msgstr "%d másodperc"
+
+msgid "Auto timeout"
+msgstr "Automatikus időtúllépés"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatikus időtúllépés (5-150 perc)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatikus gyorsítótár öblítés"
+
+msgid "Cache drop type"
+msgstr "Cache drop típus"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush információ"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush állapota"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Clean \"
+msgstr "Tiszta \"
+
+msgid "Clear Now"
+msgstr "Tiszta most"
+
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush engedélyezése"
+
+msgid "Free:"
+msgstr "Ingyenes:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem törölve"
+
+msgid "Memory:"
+msgstr "Memória:"
+
+msgid "Refresh"
+msgstr "Frissítés"
+
+msgid "Save"
+msgstr "Megtakarítás"
+
+msgid "Setup CacheFlush"
+msgstr "A CacheFlush beállítása"
+
+msgid "Show info on screen"
+msgstr "Információk megjelenítése a képernyőn"
+
+msgid "Started"
+msgstr "Elindult"
+
+msgid "Starting"
+msgstr "Indulás"
+
+msgid "Stopped"
+msgstr "Megállt"
+
+msgid "Time of info message"
+msgstr "Az információs üzenet ideje"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Az információs üzenet ideje (1-10 mp)"
+
+msgid "Uncached memory size"
+msgstr "Gyorsítótárazott memória mérete"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Gyorsítótárazott memória: %(current)s kB, ( alapértelmezés: %(alapértelmezett)s kB )"
+
+msgid "Used:"
+msgstr "Használt:"
+
+msgid "event info"
+msgstr "esemény info"
+
+msgid "extensions"
+msgstr "kiterjesztések"
+
+msgid "menu-system"
+msgstr "menürendszer"
+
+msgid "pagecache"
+msgstr "oldalgyorsítótár"
+
+msgid "plugins"
+msgstr "bővítmények"
+

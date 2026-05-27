@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: he <ekekaz@gmail.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "דקה %d"
+
+msgid "%d second"
+msgstr "%d שניה"
+
+msgid "Auto timeout"
+msgstr "פסק זמן אוטומטי"
+
+msgid "Auto timeout (5-150min)"
+msgstr "פסק זמן אוטומטי (5-150 דקות)"
+
+msgid "Automatic cache flushing"
+msgstr "שטיפת מטמון אוטומטית"
+
+msgid "Cache drop type"
+msgstr "סוג שחרור מטמון"
+
+msgid "CacheFlush Info"
+msgstr "מידע על CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "מידע CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "מצב CacheFlush"
+
+msgid "Cancel"
+msgstr "לְבַטֵל"
+
+msgid "Clean \"
+msgstr "נקי \"
+
+msgid "Clear Now"
+msgstr "נקה עכשיו"
+
+msgid "Default"
+msgstr "בְּרִירַת מֶחדָל"
+
+msgid "Enable CacheFlush"
+msgstr "הפעל את CacheFlush"
+
+msgid "Free:"
+msgstr "לְשַׁחְרֵר:"
+
+msgid "Info"
+msgstr "מידע"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "מם ניקה"
+
+msgid "Memory:"
+msgstr "זֵכֶר:"
+
+msgid "Refresh"
+msgstr "לְרַעֲנֵן"
+
+msgid "Save"
+msgstr "לְהַצִיל"
+
+msgid "Setup CacheFlush"
+msgstr "הגדר את CacheFlush"
+
+msgid "Show info on screen"
+msgstr "הצג מידע על המסך"
+
+msgid "Started"
+msgstr "התחיל"
+
+msgid "Starting"
+msgstr "מתחיל"
+
+msgid "Stopped"
+msgstr "נֶעצָר"
+
+msgid "Time of info message"
+msgstr "זמן הודעת המידע"
+
+msgid "Time of info message (1-10sec)"
+msgstr "זמן הודעת המידע (1-10 שניות)"
+
+msgid "Uncached memory size"
+msgstr "גודל זיכרון לא שמור"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "זיכרון לא שמור: %(current)s kB, (ברירת מחדל: %(default)s kB)"
+
+msgid "Used:"
+msgstr "מְשׁוּמָשׁ:"
+
+msgid "event info"
+msgstr "מידע על האירוע"
+
+msgid "extensions"
+msgstr "הרחבות"
+
+msgid "menu-system"
+msgstr "מערכת תפריטים"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "תוספים"
+

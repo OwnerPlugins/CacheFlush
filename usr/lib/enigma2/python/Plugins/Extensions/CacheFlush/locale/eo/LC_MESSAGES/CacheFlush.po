@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: eo <ekekaz@gmail.com>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuto"
+
+msgid "%d second"
+msgstr "%d sekundo"
+
+msgid "Auto timeout"
+msgstr "Aŭtomata tempoforigo"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Aŭtomata paŭzo (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Aŭtomata kaŝmemoro purigado"
+
+msgid "Cache drop type"
+msgstr "Cache guto tipo"
+
+msgid "CacheFlush Info"
+msgstr "Informoj pri CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "Statuso de CacheFlush"
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Clean \"
+msgstr "Purigi \"
+
+msgid "Clear Now"
+msgstr "Klarigi Nun"
+
+msgid "Default"
+msgstr "Defaŭlte"
+
+msgid "Enable CacheFlush"
+msgstr "Ebligu CacheFlush"
+
+msgid "Free:"
+msgstr "Senpaga:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem klariĝis"
+
+msgid "Memory:"
+msgstr "Memoro:"
+
+msgid "Refresh"
+msgstr "Refreŝigi"
+
+msgid "Save"
+msgstr "Konservu"
+
+msgid "Setup CacheFlush"
+msgstr "Agordu CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Montru informojn sur ekrano"
+
+msgid "Started"
+msgstr "Komenciĝis"
+
+msgid "Starting"
+msgstr "Komencante"
+
+msgid "Stopped"
+msgstr "Haltis"
+
+msgid "Time of info message"
+msgstr "Tempo de informmesaĝo"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tempo de informmesaĝo (1-10 sekundoj)"
+
+msgid "Uncached memory size"
+msgstr "Nekaĉigita memorgrando"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Nekaŝmemorigita memoro: %(nuna)s kB, ( defaŭlte: %(defaŭlte)s kB )"
+
+msgid "Used:"
+msgstr "Uzita:"
+
+msgid "event info"
+msgstr "informo pri evento"
+
+msgid "extensions"
+msgstr "etendaĵoj"
+
+msgid "menu-system"
+msgstr "menu-sistemo"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "kromaĵojn"
+

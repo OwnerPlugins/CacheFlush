@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: tg <ekekaz@gmail.com>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d дақиқа"
+
+msgid "%d second"
+msgstr "%d сония"
+
+msgid "Auto timeout"
+msgstr "Вақти худкор"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Вақти худкор (5-150 дақиқа)"
+
+msgid "Automatic cache flushing"
+msgstr "Тозакунии кэш ба таври худкор"
+
+msgid "Cache drop type"
+msgstr "Навъи тарки кэш"
+
+msgid "CacheFlush Info"
+msgstr "Маълумоти CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "Ҳолати CacheFlush"
+
+msgid "Cancel"
+msgstr "Бекор кардан"
+
+msgid "Clean \"
+msgstr "Тоза \"
+
+msgid "Clear Now"
+msgstr "Ҳоло тоза кунед"
+
+msgid "Default"
+msgstr "Пешфарз"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush-ро фаъол созед"
+
+msgid "Free:"
+msgstr "Озод:"
+
+msgid "Info"
+msgstr "Маълумот"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "Mem cleared"
+msgstr "Мем тоза шуд"
+
+msgid "Memory:"
+msgstr "Хотира:"
+
+msgid "Refresh"
+msgstr "Навсозӣ"
+
+msgid "Save"
+msgstr "Захира кунед"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush-ро насб кунед"
+
+msgid "Show info on screen"
+msgstr "Маълумотро дар экран нишон диҳед"
+
+msgid "Started"
+msgstr "Сар шуд"
+
+msgid "Starting"
+msgstr "Оғоз"
+
+msgid "Stopped"
+msgstr "Истед"
+
+msgid "Time of info message"
+msgstr "Вақти паёми иттилоотӣ"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Вақти паёми иттилоотӣ (1-10 сония)"
+
+msgid "Uncached memory size"
+msgstr "Андозаи хотираи кэшнашуда"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Хотираи кэшнашуда: %(current)s кБ, ( пешфарз: %(default)s кБ )"
+
+msgid "Used:"
+msgstr "Истифода бурда мешавад:"
+
+msgid "event info"
+msgstr "маълумот дар бораи ҳодиса"
+
+msgid "extensions"
+msgstr "васеъшавӣ"
+
+msgid "menu-system"
+msgstr "меню-система"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "плагинҳо"
+

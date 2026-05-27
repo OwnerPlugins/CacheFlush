@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ka <ekekaz@gmail.com>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d წუთი"
+
+msgid "%d second"
+msgstr "%d წამი"
+
+msgid "Auto timeout"
+msgstr "ავტომატური დროის ამოწურვა"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ავტომატური დრო (5-150 წთ)"
+
+msgid "Automatic cache flushing"
+msgstr "ქეშის ავტომატური გამორეცხვა"
+
+msgid "Cache drop type"
+msgstr "ქეშის ვარდნის ტიპი"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush ინფორმაცია"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush სტატუსი"
+
+msgid "Cancel"
+msgstr "გაუქმება"
+
+msgid "Clean \"
+msgstr "სუფთა \"
+
+msgid "Clear Now"
+msgstr "გასუფთავება ახლა"
+
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+msgid "Enable CacheFlush"
+msgstr "ჩართეთ CacheFlush"
+
+msgid "Free:"
+msgstr "უფასო:"
+
+msgid "Info"
+msgstr "ინფორმაცია"
+
+msgid "MB"
+msgstr "მბ"
+
+msgid "Mem cleared"
+msgstr "მემ გასუფთავდა"
+
+msgid "Memory:"
+msgstr "მეხსიერება:"
+
+msgid "Refresh"
+msgstr "განაახლეთ"
+
+msgid "Save"
+msgstr "შენახვა"
+
+msgid "Setup CacheFlush"
+msgstr "დააყენეთ CacheFlush"
+
+msgid "Show info on screen"
+msgstr "ეკრანზე ინფორმაციის ჩვენება"
+
+msgid "Started"
+msgstr "დაიწყო"
+
+msgid "Starting"
+msgstr "დაწყებული"
+
+msgid "Stopped"
+msgstr "გაჩერდა"
+
+msgid "Time of info message"
+msgstr "საინფორმაციო შეტყობინების დრო"
+
+msgid "Time of info message (1-10sec)"
+msgstr "საინფორმაციო შეტყობინების დრო (1-10 წმ)"
+
+msgid "Uncached memory size"
+msgstr "მეხსიერების გაუქმებული ზომა"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "ქეშირებული მეხსიერება: %(მიმდინარე)s kB, ( ნაგულისხმევი: %(default)s kB)"
+
+msgid "Used:"
+msgstr "მეორადი:"
+
+msgid "event info"
+msgstr "ღონისძიების ინფორმაცია"
+
+msgid "extensions"
+msgstr "გაფართოებები"
+
+msgid "menu-system"
+msgstr "მენიუ-სისტემა"
+
+msgid "pagecache"
+msgstr "გვერდის ქეში"
+
+msgid "plugins"
+msgstr "დანამატები"
+

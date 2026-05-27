@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: sq <ekekaz@gmail.com>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minutë"
+
+msgid "%d second"
+msgstr "%d sekondë"
+
+msgid "Auto timeout"
+msgstr "Kohëzgjatja automatike"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Kohëzgjatja automatike (5-150 minuta)"
+
+msgid "Automatic cache flushing"
+msgstr "Shpëlarje automatike e cache-it"
+
+msgid "Cache drop type"
+msgstr "Lloji i rënies së cache"
+
+msgid "CacheFlush Info"
+msgstr "Informacione CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Informacioni CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Statusi i CacheFlush"
+
+msgid "Cancel"
+msgstr "Anulo"
+
+msgid "Clean \"
+msgstr "Pastro \"
+
+msgid "Clear Now"
+msgstr "Pastro Tani"
+
+msgid "Default"
+msgstr "E paracaktuar"
+
+msgid "Enable CacheFlush"
+msgstr "Aktivizo CacheFlush"
+
+msgid "Free:"
+msgstr "Falas:"
+
+msgid "Info"
+msgstr "Informacion"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem pastrohet"
+
+msgid "Memory:"
+msgstr "Kujtesa:"
+
+msgid "Refresh"
+msgstr "Rifresko"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Setup CacheFlush"
+msgstr "Konfiguro CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Shfaq informacionin në ekran"
+
+msgid "Started"
+msgstr "Filloi"
+
+msgid "Starting"
+msgstr "Duke filluar"
+
+msgid "Stopped"
+msgstr "Ndaloi"
+
+msgid "Time of info message"
+msgstr "Koha e mesazhit info"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Koha e mesazhit të informacionit (1-10 sekonda)"
+
+msgid "Uncached memory size"
+msgstr "Madhësia e memories së pacaktuar"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memorie e pakapshme: %(aktuale)s kB, ( e paracaktuar: %(parazgjedhur)s kB )"
+
+msgid "Used:"
+msgstr "Përdorur:"
+
+msgid "event info"
+msgstr "informacion për ngjarjen"
+
+msgid "extensions"
+msgstr "zgjerimet"
+
+msgid "menu-system"
+msgstr "menu-sistem"
+
+msgid "pagecache"
+msgstr "faqe cache"
+
+msgid "plugins"
+msgstr "shtojcat"
+

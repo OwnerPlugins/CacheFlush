@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: mt <ekekaz@gmail.com>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuta"
+
+msgid "%d second"
+msgstr "%d sekonda"
+
+msgid "Auto timeout"
+msgstr ""
+
+msgid "Auto timeout (5-150min)"
+msgstr "Timeout awtomatiku (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Flushing awtomatiku tal-cache"
+
+msgid "Cache drop type"
+msgstr "Tip ta 'waqgħa tal-cache"
+
+msgid "CacheFlush Info"
+msgstr ""
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "Status CacheFlush"
+
+msgid "Cancel"
+msgstr "Ikkanċella"
+
+msgid "Clean \"
+msgstr "Naddaf \"
+
+msgid "Clear Now"
+msgstr "Ċara Issa"
+
+msgid "Default"
+msgstr ""
+
+msgid "Enable CacheFlush"
+msgstr "Ippermetti CacheFlush"
+
+msgid "Free:"
+msgstr "B'xejn:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem ikklerjat"
+
+msgid "Memory:"
+msgstr "Memorja:"
+
+msgid "Refresh"
+msgstr "Aġġorna"
+
+msgid "Save"
+msgstr "Ħlief"
+
+msgid "Setup CacheFlush"
+msgstr ""
+
+msgid "Show info on screen"
+msgstr "Uri l-informazzjoni fuq l-iskrin"
+
+msgid "Started"
+msgstr "Bdiet"
+
+msgid "Starting"
+msgstr "Bidu"
+
+msgid "Stopped"
+msgstr "Waqqaf"
+
+msgid "Time of info message"
+msgstr "Ħin tal-messaġġ ta' informazzjoni"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Ħin tal-messaġġ ta' informazzjoni (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "Daqs tal-memorja mhux fil-cache"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Memorja mhux cached: %(kurrent)s kB, ( default: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Użat:"
+
+msgid "event info"
+msgstr "informazzjoni dwar l-avveniment"
+
+msgid "extensions"
+msgstr "estensjonijiet"
+
+msgid "menu-system"
+msgstr "sistema tal-menu"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr ""
+

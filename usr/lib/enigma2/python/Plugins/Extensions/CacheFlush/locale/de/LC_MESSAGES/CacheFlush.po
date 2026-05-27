@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: de <ekekaz@gmail.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d Minute"
+
+msgid "%d second"
+msgstr "%d Sekunde"
+
+msgid "Auto timeout"
+msgstr "Automatisches Timeout"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatisches Timeout (5–150 Minuten)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatisches Cache-Leeren"
+
+msgid "Cache drop type"
+msgstr "Cache-Drop-Typ"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush-Info"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush-Info v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush-Status"
+
+msgid "Cancel"
+msgstr "Stornieren"
+
+msgid "Clean \"
+msgstr "Sauber \"
+
+msgid "Clear Now"
+msgstr "Jetzt löschen"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Enable CacheFlush"
+msgstr "Aktivieren Sie CacheFlush"
+
+msgid "Free:"
+msgstr "Frei:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem gelöscht"
+
+msgid "Memory:"
+msgstr "Erinnerung:"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush einrichten"
+
+msgid "Show info on screen"
+msgstr "Informationen auf dem Bildschirm anzeigen"
+
+msgid "Started"
+msgstr "Begonnen"
+
+msgid "Starting"
+msgstr "Beginnt"
+
+msgid "Stopped"
+msgstr "Angehalten"
+
+msgid "Time of info message"
+msgstr "Zeitpunkt der Infonachricht"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Zeit der Infomeldung (1-10 Sek.)"
+
+msgid "Uncached memory size"
+msgstr "Nicht zwischengespeicherte Speichergröße"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Nicht zwischengespeicherter Speicher: %(aktuell)s kB, (Standard: %(default)s kB)"
+
+msgid "Used:"
+msgstr "Gebraucht:"
+
+msgid "event info"
+msgstr "Veranstaltungsinfo"
+
+msgid "extensions"
+msgstr "Erweiterungen"
+
+msgid "menu-system"
+msgstr "Menüsystem"
+
+msgid "pagecache"
+msgstr "Seitencache"
+
+msgid "plugins"
+msgstr "Plugins"
+

@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: hi <ekekaz@gmail.com>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d मिनट"
+
+msgid "%d second"
+msgstr "%d दूसरा"
+
+msgid "Auto timeout"
+msgstr "ऑटो टाइमआउट"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ऑटो टाइमआउट (5-150 मिनट)"
+
+msgid "Automatic cache flushing"
+msgstr "स्वचालित कैश फ्लशिंग"
+
+msgid "Cache drop type"
+msgstr "कैश ड्रॉप प्रकार"
+
+msgid "CacheFlush Info"
+msgstr "कैशफ्लश जानकारी"
+
+msgid "CacheFlush Info v.%s"
+msgstr "कैशफ्लश जानकारी v.%s"
+
+msgid "CacheFlush Status"
+msgstr "कैशफ्लश स्थिति"
+
+msgid "Cancel"
+msgstr "रद्द करना"
+
+msgid "Clean \"
+msgstr "साफ \"
+
+msgid "Clear Now"
+msgstr "अभी साफ़ करें"
+
+msgid "Default"
+msgstr "गलती करना"
+
+msgid "Enable CacheFlush"
+msgstr "कैशफ्लश सक्षम करें"
+
+msgid "Free:"
+msgstr "मुक्त:"
+
+msgid "Info"
+msgstr "जानकारी"
+
+msgid "MB"
+msgstr "एमबी"
+
+msgid "Mem cleared"
+msgstr "मेम ने साफ़ कर दिया"
+
+msgid "Memory:"
+msgstr "याद:"
+
+msgid "Refresh"
+msgstr "ताज़ा करना"
+
+msgid "Save"
+msgstr "बचाना"
+
+msgid "Setup CacheFlush"
+msgstr "कैशफ्लश सेटअप करें"
+
+msgid "Show info on screen"
+msgstr "स्क्रीन पर जानकारी दिखाएं"
+
+msgid "Started"
+msgstr "शुरू कर दिया"
+
+msgid "Starting"
+msgstr "प्रारंभ"
+
+msgid "Stopped"
+msgstr "रुक गया"
+
+msgid "Time of info message"
+msgstr "सूचना संदेश का समय"
+
+msgid "Time of info message (1-10sec)"
+msgstr "सूचना संदेश का समय (1-10 सेकंड)"
+
+msgid "Uncached memory size"
+msgstr "अनकैच्ड मेमोरी आकार"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "अनकैच्ड मेमोरी: %(वर्तमान)s kB, (डिफ़ॉल्ट: %(डिफ़ॉल्ट)s kB)"
+
+msgid "Used:"
+msgstr "इस्तेमाल किया गया:"
+
+msgid "event info"
+msgstr "घटना की जानकारी"
+
+msgid "extensions"
+msgstr "एक्सटेंशन"
+
+msgid "menu-system"
+msgstr "मेनू-SYSTEM"
+
+msgid "pagecache"
+msgstr "पेजकैश"
+
+msgid "plugins"
+msgstr "प्लग-इन"
+

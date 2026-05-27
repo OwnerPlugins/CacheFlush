@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: te <ekekaz@gmail.com>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d నిమిషం"
+
+msgid "%d second"
+msgstr "%d సెకను"
+
+msgid "Auto timeout"
+msgstr "ఆటో సమయం ముగిసింది"
+
+msgid "Auto timeout (5-150min)"
+msgstr "ఆటో సమయం ముగిసింది (5-150నిమి)"
+
+msgid "Automatic cache flushing"
+msgstr "ఆటోమేటిక్ కాష్ ఫ్లషింగ్"
+
+msgid "Cache drop type"
+msgstr "కాష్ డ్రాప్ రకం"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush సమాచారం"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush సమాచారం v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush స్థితి"
+
+msgid "Cancel"
+msgstr "రద్దు చేయి"
+
+msgid "Clean \"
+msgstr "శుభ్రంగా \"
+
+msgid "Clear Now"
+msgstr "ఇప్పుడు క్లియర్ చేయండి"
+
+msgid "Default"
+msgstr "డిఫాల్ట్"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlushని ప్రారంభించండి"
+
+msgid "Free:"
+msgstr "ఉచిత:"
+
+msgid "Info"
+msgstr "సమాచారం"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "మెమ్ క్లియర్ చేయబడింది"
+
+msgid "Memory:"
+msgstr "మెమరీ:"
+
+msgid "Refresh"
+msgstr "రిఫ్రెష్ చేయండి"
+
+msgid "Save"
+msgstr "సేవ్ చేయండి"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlushని సెటప్ చేయండి"
+
+msgid "Show info on screen"
+msgstr "స్క్రీన్‌పై సమాచారాన్ని చూపండి"
+
+msgid "Started"
+msgstr "ప్రారంభించారు"
+
+msgid "Starting"
+msgstr "ప్రారంభిస్తోంది"
+
+msgid "Stopped"
+msgstr "ఆగిపోయింది"
+
+msgid "Time of info message"
+msgstr "సమాచార సందేశం సమయం"
+
+msgid "Time of info message (1-10sec)"
+msgstr "సమాచార సందేశం సమయం (1-10సె.)"
+
+msgid "Uncached memory size"
+msgstr "కాష్ చేయని మెమరీ పరిమాణం"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "కాష్ చేయని మెమరీ: %(ప్రస్తుత)s kB, (డిఫాల్ట్: %(default)s kB )"
+
+msgid "Used:"
+msgstr "వాడినది:"
+
+msgid "event info"
+msgstr "ఈవెంట్ సమాచారం"
+
+msgid "extensions"
+msgstr "పొడిగింపులు"
+
+msgid "menu-system"
+msgstr "మెను-సిస్టమ్"
+
+msgid "pagecache"
+msgstr "పేజీ కాష్"
+
+msgid "plugins"
+msgstr "ప్లగిన్లు"
+

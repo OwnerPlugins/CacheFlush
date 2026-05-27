@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ky <ekekaz@gmail.com>\n"
+"Language: ky\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d мүнөт"
+
+msgid "%d second"
+msgstr "%d секунд"
+
+msgid "Auto timeout"
+msgstr "Автоматтык күтүү"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Автоматтык күтүү (5-150 мүн.)"
+
+msgid "Automatic cache flushing"
+msgstr "Автоматтык кэш тазалоо"
+
+msgid "Cache drop type"
+msgstr "Кэш түшүрүү түрү"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush маалыматы"
+
+msgid "CacheFlush Info v.%s"
+msgstr ""
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush статусу"
+
+msgid "Cancel"
+msgstr "Жокко чыгаруу"
+
+msgid "Clean \"
+msgstr "Таза \"
+
+msgid "Clear Now"
+msgstr "Азыр тазалоо"
+
+msgid "Default"
+msgstr "Демейки"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush иштетүү"
+
+msgid "Free:"
+msgstr "Акысыз:"
+
+msgid "Info"
+msgstr "Маалымат"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Мем тазаланды"
+
+msgid "Memory:"
+msgstr "Эстутум:"
+
+msgid "Refresh"
+msgstr "Жаңылоо"
+
+msgid "Save"
+msgstr "Сактоо"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush орнотуу"
+
+msgid "Show info on screen"
+msgstr "Экранда маалыматты көрсөтүү"
+
+msgid "Started"
+msgstr "Башталды"
+
+msgid "Starting"
+msgstr "Баштоо"
+
+msgid "Stopped"
+msgstr "Токтотту"
+
+msgid "Time of info message"
+msgstr "Маалымат билдирүү убактысы"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Маалымат билдирүү убактысы (1-10сек)"
+
+msgid "Uncached memory size"
+msgstr "Кэштелбеген эстутум көлөмү"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Кэштелбеген эстутум: %(current)s кБ, (демейки: %(default)s кБ )"
+
+msgid "Used:"
+msgstr "Колдонулган:"
+
+msgid "event info"
+msgstr "окуя маалыматы"
+
+msgid "extensions"
+msgstr "кеңейтүүлөр"
+
+msgid "menu-system"
+msgstr "меню системасы"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr "плагиндер"
+

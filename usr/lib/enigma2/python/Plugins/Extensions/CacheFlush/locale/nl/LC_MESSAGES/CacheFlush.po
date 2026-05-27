@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: nl <ekekaz@gmail.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuut"
+
+msgid "%d second"
+msgstr "%d seconde"
+
+msgid "Auto timeout"
+msgstr "Automatische time-out"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Automatische time-out (5-150min)"
+
+msgid "Automatic cache flushing"
+msgstr "Automatisch cachegeheugen leegmaken"
+
+msgid "Cache drop type"
+msgstr "Type cachedrop"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush-informatie"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush-info v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush-status"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Clean \"
+msgstr "Schoon \"
+
+msgid "Clear Now"
+msgstr "Nu wissen"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Enable CacheFlush"
+msgstr "Schakel CacheFlush in"
+
+msgid "Free:"
+msgstr "Vrij:"
+
+msgid "Info"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem gewist"
+
+msgid "Memory:"
+msgstr "Geheugen:"
+
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+msgid "Save"
+msgstr "Redden"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush instellen"
+
+msgid "Show info on screen"
+msgstr "Toon informatie op het scherm"
+
+msgid "Started"
+msgstr "Gestart"
+
+msgid "Starting"
+msgstr "Beginnen"
+
+msgid "Stopped"
+msgstr "Gestopt"
+
+msgid "Time of info message"
+msgstr "Tijdstip van het infobericht"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tijd van infobericht (1-10sec)"
+
+msgid "Uncached memory size"
+msgstr "Niet-gecachte geheugengrootte"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Niet-gecacht geheugen: %(current)s kB, ( standaard: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Gebruikt:"
+
+msgid "event info"
+msgstr "evenementinformatie"
+
+msgid "extensions"
+msgstr "extensies"
+
+msgid "menu-system"
+msgstr "menu-systeem"
+
+msgid "pagecache"
+msgstr "paginacache"
+
+msgid "plugins"
+msgstr "plug-ins"
+

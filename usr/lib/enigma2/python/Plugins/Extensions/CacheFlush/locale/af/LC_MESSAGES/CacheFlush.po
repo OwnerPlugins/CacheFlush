@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: af <ekekaz@gmail.com>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d minuut"
+
+msgid "%d second"
+msgstr "%d sekonde"
+
+msgid "Auto timeout"
+msgstr "Outo-uitteltyd"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Outo-uitteltyd (5-150 min)"
+
+msgid "Automatic cache flushing"
+msgstr "Outomatiese kas spoel"
+
+msgid "Cache drop type"
+msgstr "Cache drop tipe"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush-inligting"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush-inligting v.%s"
+
+msgid "CacheFlush Status"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Kanselleer"
+
+msgid "Clean \"
+msgstr "Maak skoon \"
+
+msgid "Clear Now"
+msgstr "Vee nou uit"
+
+msgid "Default"
+msgstr "Verstek"
+
+msgid "Enable CacheFlush"
+msgstr "Aktiveer CacheFlush"
+
+msgid "Free:"
+msgstr "Gratis:"
+
+msgid "Info"
+msgstr "Inligting"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Mem skoongemaak"
+
+msgid "Memory:"
+msgstr "Geheue:"
+
+msgid "Refresh"
+msgstr "Verfris"
+
+msgid "Save"
+msgstr "Stoor"
+
+msgid "Setup CacheFlush"
+msgstr "Stel CacheFlush op"
+
+msgid "Show info on screen"
+msgstr "Wys inligting op die skerm"
+
+msgid "Started"
+msgstr "Het begin"
+
+msgid "Starting"
+msgstr "Begin"
+
+msgid "Stopped"
+msgstr "Gestop"
+
+msgid "Time of info message"
+msgstr "Tyd van inligting boodskap"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Tyd van inligtingboodskap (1-10 sek.)"
+
+msgid "Uncached memory size"
+msgstr "Ongekas geheue grootte"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Ongekas geheue: %(huidige)s kB, ( verstek: %(default)s kB )"
+
+msgid "Used:"
+msgstr "Gebruik:"
+
+msgid "event info"
+msgstr "gebeurtenis inligting"
+
+msgid "extensions"
+msgstr "uitbreidings"
+
+msgid "menu-system"
+msgstr "spyskaart-stelsel"
+
+msgid "pagecache"
+msgstr ""
+
+msgid "plugins"
+msgstr ""
+

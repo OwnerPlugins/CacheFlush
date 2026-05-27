@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ta <ekekaz@gmail.com>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d நிமிடம்"
+
+msgid "%d second"
+msgstr "%d வினாடி"
+
+msgid "Auto timeout"
+msgstr "தானியங்கு நேரம் முடிந்தது"
+
+msgid "Auto timeout (5-150min)"
+msgstr "தானியங்கு நேரம் முடிந்தது (5-150நிமி)"
+
+msgid "Automatic cache flushing"
+msgstr "தானியங்கி கேச் ஃப்ளஷிங்"
+
+msgid "Cache drop type"
+msgstr "கேச் டிராப் வகை"
+
+msgid "CacheFlush Info"
+msgstr "CacheFlush தகவல்"
+
+msgid "CacheFlush Info v.%s"
+msgstr "CacheFlush தகவல் v.%s"
+
+msgid "CacheFlush Status"
+msgstr "CacheFlush நிலை"
+
+msgid "Cancel"
+msgstr "ரத்து செய்"
+
+msgid "Clean \"
+msgstr "சுத்தமான \"
+
+msgid "Clear Now"
+msgstr "இப்போது அழி"
+
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+msgid "Enable CacheFlush"
+msgstr "CacheFlush ஐ இயக்கவும்"
+
+msgid "Free:"
+msgstr "இலவசம்:"
+
+msgid "Info"
+msgstr "தகவல்"
+
+msgid "MB"
+msgstr "எம்பி"
+
+msgid "Mem cleared"
+msgstr "மெம் கிளியர்"
+
+msgid "Memory:"
+msgstr "நினைவகம்:"
+
+msgid "Refresh"
+msgstr "புதுப்பிக்கவும்"
+
+msgid "Save"
+msgstr "சேமிக்கவும்"
+
+msgid "Setup CacheFlush"
+msgstr "CacheFlush ஐ அமைக்கவும்"
+
+msgid "Show info on screen"
+msgstr "திரையில் தகவலைக் காட்டு"
+
+msgid "Started"
+msgstr "தொடங்கப்பட்டது"
+
+msgid "Starting"
+msgstr "தொடங்குகிறது"
+
+msgid "Stopped"
+msgstr "நிறுத்தப்பட்டது"
+
+msgid "Time of info message"
+msgstr "தகவல் செய்தியின் நேரம்"
+
+msgid "Time of info message (1-10sec)"
+msgstr "தகவல் செய்தியின் நேரம் (1-10 நொடி)"
+
+msgid "Uncached memory size"
+msgstr "சேமிக்கப்படாத நினைவக அளவு"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "சேமிக்கப்படாத நினைவகம்: %(தற்போதைய)s kB, (இயல்புநிலை: %(default)s kB )"
+
+msgid "Used:"
+msgstr "பயன்படுத்தப்பட்டது:"
+
+msgid "event info"
+msgstr "நிகழ்வு தகவல்"
+
+msgid "extensions"
+msgstr "நீட்டிப்புகள்"
+
+msgid "menu-system"
+msgstr "மெனு அமைப்பு"
+
+msgid "pagecache"
+msgstr "பக்க கேச்"
+
+msgid "plugins"
+msgstr "செருகுநிரல்கள்"
+

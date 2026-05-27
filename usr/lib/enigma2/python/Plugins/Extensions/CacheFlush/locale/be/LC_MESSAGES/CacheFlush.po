@@ -1,0 +1,125 @@
+# CacheFlush translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: be <ekekaz@gmail.com>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d minute"
+msgstr "%d хвіліна"
+
+msgid "%d second"
+msgstr "%d секунда"
+
+msgid "Auto timeout"
+msgstr "Аўтаматычны тайм-аўт"
+
+msgid "Auto timeout (5-150min)"
+msgstr "Аўтаматычны тайм-аўт (5-150 хвілін)"
+
+msgid "Automatic cache flushing"
+msgstr "Аўтаматычная ачыстка кэша"
+
+msgid "Cache drop type"
+msgstr "Тып падзення кэша"
+
+msgid "CacheFlush Info"
+msgstr "Інфармацыя пра CacheFlush"
+
+msgid "CacheFlush Info v.%s"
+msgstr "Інфармацыя CacheFlush v.%s"
+
+msgid "CacheFlush Status"
+msgstr "Стан CacheFlush"
+
+msgid "Cancel"
+msgstr "Адмяніць"
+
+msgid "Clean \"
+msgstr "Чысты \"
+
+msgid "Clear Now"
+msgstr "Ачысціць зараз"
+
+msgid "Default"
+msgstr "Па змаўчанні"
+
+msgid "Enable CacheFlush"
+msgstr "Уключыць CacheFlush"
+
+msgid "Free:"
+msgstr "бясплатна:"
+
+msgid "Info"
+msgstr "Інфармацыя"
+
+msgid "MB"
+msgstr ""
+
+msgid "Mem cleared"
+msgstr "Памяць ачышчана"
+
+msgid "Memory:"
+msgstr "Памяць:"
+
+msgid "Refresh"
+msgstr "Абнавіць"
+
+msgid "Save"
+msgstr "Захаваць"
+
+msgid "Setup CacheFlush"
+msgstr "Налада CacheFlush"
+
+msgid "Show info on screen"
+msgstr "Паказаць інфармацыю на экране"
+
+msgid "Started"
+msgstr "Пачалі"
+
+msgid "Starting"
+msgstr "Пачынаючы"
+
+msgid "Stopped"
+msgstr "Спыніліся"
+
+msgid "Time of info message"
+msgstr "Час інфармацыйнага паведамлення"
+
+msgid "Time of info message (1-10sec)"
+msgstr "Час інфармацыйнага паведамлення (1-10 секунд)"
+
+msgid "Uncached memory size"
+msgstr "Памер некэшаванай памяці"
+
+msgid "Uncached memory: %(current)s kB,   ( default: %(default)s kB )"
+msgstr "Некэшаваная памяць: %(current)s кБ, (па змаўчанні: %(па змаўчанні)s кБ)"
+
+msgid "Used:"
+msgstr "Выкарыстоўваецца:"
+
+msgid "event info"
+msgstr "інфармацыя аб падзеі"
+
+msgid "extensions"
+msgstr "пашырэнні"
+
+msgid "menu-system"
+msgstr "сістэма меню"
+
+msgid "pagecache"
+msgstr "кэш старонак"
+
+msgid "plugins"
+msgstr "убудовы"
+
